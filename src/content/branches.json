@@ -1,0 +1,86 @@
+[
+ {
+  "id": 9,
+  "name": {
+   "ar": "فرع المعادي",
+   "en": "Maadi branch"
+  },
+  "address": {
+   "ar": "8 شارع 263 - بالمعادي الجديد أمام البنك الكويتي الوطني",
+   "en": "Villa 8 , 263 St , New Maadi"
+  },
+  "tel": "19340",
+  "email": "info@mersal-ngo.org",
+  "map": "https://goo.gl/maps/ehtyFFgSjDi91Qpo6"
+ },
+ {
+  "id": 10,
+  "name": {
+   "ar": "الشيخ زايد",
+   "en": "Sheikh Zayed"
+  },
+  "address": {
+   "ar": "عمارة 1 مدخل 2 عمارات روضة المهندسين - المجاورة الأولى - الحي السابع - بالقرب من سوبر مركت سعودي - وكمبوند حدائق المهندسين - الدور الأرضي - الشيخ زايد",
+   "en": "Building 1, Entrance 2, Rawdat Al Mohandiseen Buildings - First Neighborhood - Seventh District - near Saudi Supermarket - and Hadayek El Mohandiseen Compound - Ground Floor - Sheikh Zayed"
+  },
+  "tel": "19340",
+  "email": "info@mersal-ngo.org",
+  "map": "https://goo.gl/maps/qYdBtXLXrDxaRN4H6"
+ },
+ {
+  "id": 11,
+  "name": {
+   "ar": "التجمع",
+   "en": "New Cairo"
+  },
+  "address": {
+   "ar": "595 عمارات النرجس . الدور الأول أمام فاطمة الشربتلي",
+   "en": "595 Narges Buildings. The first round in front of Fatima Sharbatly"
+  },
+  "tel": "19340",
+  "email": "info@mersal-ngo.org",
+  "map": "https://goo.gl/maps/Xq6Mav95VTHbks799"
+ },
+ {
+  "id": 12,
+  "name": {
+   "ar": "مدينة نصر",
+   "en": "Nasr City"
+  },
+  "address": {
+   "ar": "26 شارع الطيران - الدور الأول شقة رقم 1 - رابعة العدوية -المنطقة الأولى مدينة نصر \" بجوار كنتاكي\" وفوق صيدلية \"الصيدلية\"",
+   "en": "26 Al-Tayaran Street - First floor, Apartment No. 1 - Rabaa Al-Adawiya - First District, Nasr City, “next to KFC” and above the “Al-Sadila” pharmacy."
+  },
+  "tel": "19340",
+  "email": "info@mersal-ngo.org",
+  "map": "https://bit.ly/3bdAw0E) "
+ },
+ {
+  "id": 13,
+  "name": {
+   "ar": "الإسكندرية",
+   "en": "Alexandria"
+  },
+  "address": {
+   "ar": "276 - شارع عبد السلام عارف - خلف كافتريا الزعيم - الدور الأرضي - سيدي بشر الترام - الأسكندرية",
+   "en": "276 - Abdel Salam Arif Street - behind Al Zaeem Cafeteria - ground floor - Sidi Bishr Al Tram - Alexandria"
+  },
+  "tel": "19340",
+  "email": "info@mersal-ngo.org",
+  "map": "https://goo.gl/maps/3n3nb1jfSXP2"
+ },
+ {
+  "id": 14,
+  "name": {
+   "ar": "سوهاج",
+   "en": "Sohag"
+  },
+  "address": {
+   "ar": "4 شارع الجمهوريه امام نادى التجديف.",
+   "en": "4 El Gomhouria Street, in front of the Rowing Club."
+  },
+  "tel": "19340",
+  "email": "info@mersal-ngo.org",
+  "map": "https://www.google.com/maps/place/4+Gomhoriya+St,+Madinet+Al+Hawamdeyah,+El+Hawamdeya,+Giza+Governorate/@26.5650491,31.7022123,14.25z/data=!4m5!3m4!1s0x14583628294e6bc9:0xb903252f31cb85d3!8m2!3d29.8931031!4d31.2626919?hl=en"
+ }
+]

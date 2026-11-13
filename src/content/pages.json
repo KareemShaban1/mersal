@@ -1,0 +1,2089 @@
+[
+ {
+  "id": 3,
+  "slug": "about",
+  "group": "about",
+  "title": {
+   "ar": "عن مرسال",
+   "en": "About Mersal"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "مرسال هي مؤسسة خيرية غير هادفة للربح تعمل في مجال الصحة، تسعى مرسال لتقديم كافة أنواع الرعاية الطبية بجودة عالية لكل من يحتاجها، كما تسعى لنشر الثقافة والتوعية الطبية في مصروامتدادًا إلى الوطن العربي."
+    },
+    {
+     "t": "p",
+     "x": "تسعى مؤسسة مرسال لتوفير كافة الخدمات الصحية غير المغطاة في النظام الحكومي؛ بجودة عالية لكل من يحتاجها من غير القادرين بدون أي تفرقة. يتم ذلك من خلال شبكة من الأطباء والمستشفيات المتعاقدة مع مرسال."
+    },
+    {
+     "t": "p",
+     "x": "قيم مرسال:"
+    },
+    {
+     "t": "p",
+     "x": "المريض له الأولوية المطلقة في المؤسسة"
+    },
+    {
+     "t": "p",
+     "x": "الخصوصية:"
+    },
+    {
+     "t": "p",
+     "x": "خصوصية المريض الطبية والشخصية ميثاق شرف لا يتهاون به"
+    },
+    {
+     "t": "p",
+     "x": "علاج بلا تمييز:"
+    },
+    {
+     "t": "p",
+     "x": "مرسال باب مفتوح لجميع المرضى بدون تفرقة بين دين أو جنسية أو لون أو لغة."
+    },
+    {
+     "t": "p",
+     "x": "الجودة العالية:"
+    },
+    {
+     "t": "p",
+     "x": "تقدم مرسال كافة الخدمات الطبية بأغلى جودة وعلى يد كفاءات طبية وعلمية"
+    },
+    {
+     "t": "p",
+     "x": "المصداقية والشفافية:"
+    },
+    {
+     "t": "p",
+     "x": "تعرض مرسال مصادر دخلها، وإنفاقها، من حيث حجم التبرعات، والمصروفات الإدارية والطبية"
+    },
+    {
+     "t": "p",
+     "x": "أهداف مرسال: تهدف مرسال بشكل رئيسي لفتح أبوابها لكل المرضى أيا كانت درجة خطورة حالتهم أو احتياجاتهم وتوفيرها بالكامل ومساعدتهم خلال رحلة العلاج بأكملها. (تحت شعار فتح باب أمل جديد) تعمل مؤسسة مرسال الخيرية على توفير العلاج لكافة الحالات المرضية بمختلف أنواعها، مع الحفاظ على السرية والخصوصية التامة لكل مريض. وعدم عرض الحالات المرضية بمختلف حالاتها في الإعلام، وضمان وصول زكاة الأموال والصدقات بصورة كاملة لمستحقيها."
+    },
+    {
+     "t": "p",
+     "x": "مشاريع طبية تعمل عليها المؤسسة:"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "About Mersal Foundation"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Foundation is a non-profit charitable organization dedicated to providing high-quality healthcare services to those in need across Egypt and the Arab world. Founded on the principles of compassion, equity, and excellence, Mersal works to bridge the gaps in the healthcare system by offering comprehensive medical care that is not covered by public services."
+    },
+    {
+     "t": "p",
+     "x": "Our Mission"
+    },
+    {
+     "t": "p",
+     "x": "To deliver all types of medical care to underserved individuals with dignity, privacy, and without discrimination—ensuring that every patient receives the treatment they deserve."
+    },
+    {
+     "t": "p",
+     "x": "Our Vision"
+    },
+    {
+     "t": "p",
+     "x": "A society where every person has access to quality healthcare, regardless of their financial status, background, or medical condition."
+    },
+    {
+     "t": "p",
+     "x": "Our Values"
+    },
+    {
+     "t": "p",
+     "x": "Patient First: The patient is our top priority in every decision and action."
+    },
+    {
+     "t": "p",
+     "x": "Privacy: We uphold the highest standards of confidentiality for all medical and personal information."
+    },
+    {
+     "t": "p",
+     "x": "Non-Discrimination: We serve all patients equally, regardless of religion, nationality, color, or language."
+    },
+    {
+     "t": "p",
+     "x": "High Quality: Our services are delivered by highly qualified medical professionals and institutions."
+    },
+    {
+     "t": "p",
+     "x": "Transparency: We openly disclose our sources of income and expenditures, including donations and operational costs."
+    },
+    {
+     "t": "p",
+     "x": "What We Do"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Foundation operates through a network of contracted hospitals and doctors to provide a wide range of medical services, including:"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Charitable Hospital for Children: Egypt’s first charitable pediatric hospital, currently under construction."
+    },
+    {
+     "t": "p",
+     "x": "Mersal Oncology Center: Comprehensive cancer care for patients who cannot access treatment elsewhere."
+    },
+    {
+     "t": "p",
+     "x": "Mersal Guest House: Accommodation for patients traveling from outside Cairo or abroad for treatment."
+    },
+    {
+     "t": "p",
+     "x": "Hekayat Sawt Project: Support for children with hearing impairments through cochlear implants and rehabilitation."
+    },
+    {
+     "t": "p",
+     "x": "Emergency Program: 24/7 urgent medical assistance through a dedicated hotline and hospital network."
+    },
+    {
+     "t": "p",
+     "x": "Dialysis Center: Ongoing dialysis services for patients in need."
+    },
+    {
+     "t": "p",
+     "x": "Monthly Treatment Program: Regular medication support for over 5,000 patients."
+    },
+    {
+     "t": "p",
+     "x": "Mental Health Program: Free psychological support for patients and their families."
+    },
+    {
+     "t": "p",
+     "x": "Support Convoys: Medical outreach to underserved areas and public hospitals, including relief efforts for Gaza."
+    },
+    {
+     "t": "p",
+     "x": "Our Commitment"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Foundation is committed to opening the door to new hope for every patient. We believe that healthcare is a right, not a privilege—and we work every day to make that belief a reality."
+    }
+   ]
+  },
+  "images": [],
+  "map": null
+ },
+ {
+  "id": 30,
+  "slug": "children-hospital",
+  "group": "projects",
+  "title": {
+   "ar": "مستشفى مرسال للأطفال",
+   "en": "Mersal Hospital"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "حرصاً من مرسال على دعم القطاع الصحي وتطبيقاً لحق كل فرد في الرعاية الصحية المتكاملة، نكمل الحلم على مساحة 5000 متر مربع حيث يتم بناء مستشفى مرسال المتكامل لعلاج حالات الأطفال الحرجة."
+    },
+    {
+     "t": "h",
+     "x": "ماذا تقدم المستشفى؟"
+    },
+    {
+     "t": "li",
+     "x": "غرف عناية مركزة ( 8 أسرّة تخدم الأطفال حتى سن 18 عام)"
+    },
+    {
+     "t": "li",
+     "x": "إقامة داخلية (14 غرفة تحتوي على 35 سرير)"
+    },
+    {
+     "t": "li",
+     "x": "عيادات خارجية (6 عيادات)"
+    },
+    {
+     "t": "li",
+     "x": "وحدة زرع النخاع (3 كبسولات عالية التعقيم)"
+    },
+    {
+     "t": "li",
+     "x": "قسم العمليات"
+    },
+    {
+     "t": "li",
+     "x": "معمل التحاليل"
+    },
+    {
+     "t": "li",
+     "x": "قسم الأشعة"
+    },
+    {
+     "t": "li",
+     "x": "صيدلية"
+    },
+    {
+     "t": "h",
+     "x": "فئات الأطفال المتوقع استفادتهم من المستشفى"
+    },
+    {
+     "t": "li",
+     "x": "وجميع الحالات الحرجة للأطفال من سن يوم حتى 18 سنة"
+    },
+    {
+     "t": "li",
+     "x": "الأطفال المصابون بالحوادث"
+    },
+    {
+     "t": "li",
+     "x": "الأطفال المصابون بأمراض الدم"
+    },
+    {
+     "t": "li",
+     "x": "الأطفال مرضى القلب"
+    },
+    {
+     "t": "li",
+     "x": "الأطفال الخدج"
+    },
+    {
+     "t": "h",
+     "x": "قيمة أسهم المستشفى"
+    },
+    {
+     "t": "li",
+     "x": "500 جنيه (سهم أجهزة طبية)"
+    },
+    {
+     "t": "li",
+     "x": "1000 جنيه (سهم عام)"
+    },
+    {
+     "t": "li",
+     "x": "25000 جنيه (متر وقف خيري بمستشفى مرسال)"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "Mersal Children's Hospital"
+    },
+    {
+     "t": "p",
+     "x": "In the interest of Mersal to support the health sector and in implementation of the right of everyone to integrated health care We complete the dream on an area of 5,000 square meters where the integrated Mersal Hospital is being built to treat critically ill children."
+    },
+    {
+     "t": "h",
+     "x": "What does the hospital offer?"
+    },
+    {
+     "t": "li",
+     "x": "Mersal Nurseries and Intensive Care for Newborns (9 beds)"
+    },
+    {
+     "t": "li",
+     "x": "Intensive care rooms (8 beds serving children up to 18 years old)"
+    },
+    {
+     "t": "li",
+     "x": "Boarding accommodation (14 rooms with 35 beds)"
+    },
+    {
+     "t": "li",
+     "x": "Marrow Transplant Unit (3 highly sterile capsules) Operations Department"
+    },
+    {
+     "t": "li",
+     "x": "Outpatient clinics (6 clinics)"
+    },
+    {
+     "t": "li",
+     "x": "analysis lab"
+    },
+    {
+     "t": "li",
+     "x": "x_ray place"
+    },
+    {
+     "t": "li",
+     "x": "Pharmacy"
+    },
+    {
+     "t": "h",
+     "x": "Categories of children expected to benefit from the hospital"
+    },
+    {
+     "t": "li",
+     "x": "And all critical cases of children from the age of one day up to 18 years"
+    },
+    {
+     "t": "li",
+     "x": "Children with blood diseases"
+    },
+    {
+     "t": "li",
+     "x": "Children with heart diseases"
+    },
+    {
+     "t": "li",
+     "x": "Children with accidents"
+    },
+    {
+     "t": "li",
+     "x": "premature babies"
+    },
+    {
+     "t": "h",
+     "x": "You can donate with"
+    },
+    {
+     "t": "li",
+     "x": "500 pounds (medical devices share)"
+    },
+    {
+     "t": "li",
+     "x": "1000 pounds (public share)"
+    },
+    {
+     "t": "li",
+     "x": "25,000 pounds (a charitable endowment at Mersal Hospital)"
+    }
+   ]
+  },
+  "images": [
+   "/media/children-hospital-1.jpg",
+   "/media/children-hospital-2.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 55,
+  "slug": "geet-badry",
+  "group": "projects",
+  "title": {
+   "ar": "جيت بدري",
+   "en": "Arrived Early"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "حملة مرسال لدعم الأطفال المبتسرين وحديثي الولادة.. مركز حضانات ورعاية طبية عاجلة لكل طفل حياته في خطر."
+    },
+    {
+     "t": "h",
+     "x": "جيت بدري"
+    },
+    {
+     "t": "p",
+     "x": "\"سواء جيت بدري أو في ميعادي.. أول أيامي محتاج حد ينقذ حياتي، لحد ما أكون قد الحياة.\""
+    },
+    {
+     "t": "h",
+     "x": "إزاي تبرعك بيوصل؟"
+    },
+    {
+     "t": "li",
+     "x": "حضانات للمبتسرين: مكان آمن داخل مراكز حضانات مرسال، أو تحويل إلى وحدات رعاية مركزة موثوقة عند امتلاء الأماكن."
+    },
+    {
+     "t": "li",
+     "x": "رعاية طبية عاجلة للمبتسرين: تدخلات منقذة للحياة، منها حقن السرفانتا لدعم الرئة غير مكتملة النمو."
+    },
+    {
+     "t": "li",
+     "x": "حضانات للأطفال المكتملين: الدعم نفسه لكل طفل وُلد في موعده واحتاج إلى حضانة، داخل مرسال أو عبر التحويل لمكان الرعاية المناسب لحالته."
+    },
+    {
+     "t": "li",
+     "x": "خط طوارئ مرسال: نقطة الاتصال الأولى للأسر في الحالات العاجلة. من خلاله بنستقبل الطفل في مراكز مرسال، أو يُحوَّل إلى جهة أخرى، أو يحصل على التدخل الطبي المناسب لحالته. (19340)"
+    },
+    {
+     "t": "p",
+     "x": "كل ركن هنا قائم بتبرعاتكم، وكل تبرع بيوفر الخدمات لكل طفل وأسرة حياتهم واقفة عليها."
+    },
+    {
+     "t": "h",
+     "x": "رؤية مرسال"
+    },
+    {
+     "t": "p",
+     "x": "نسعى في مرسال لسد العجز في حضانات الأطفال المبتسرين وحديثي الولادة في مصر.. وتقديم رعاية طبية متخصصة بجودة عالية لا تنازل عنها."
+    },
+    {
+     "t": "p",
+     "x": "في الوقت الحالي نقدم خدمة الحضانات من خلال مركزين في فيصل والمعادي، بجانب خط الطوارئ للربط بين أسر الأطفال وبين الرعاية المناسبة لأطفالهم في أسرع وقت."
+    },
+    {
+     "t": "p",
+     "x": "تبرعك للحضانات صدقة جارية، يمتد أثرها ما دام الطفل يتنفس ويكبر."
+    },
+    {
+     "t": "p",
+     "x": "للطوارئ والاستفسار: 19340"
+    },
+    {
+     "t": "p",
+     "x": "مؤسسة مرسال للأعمال الخيرية والتنموية | جيت بدري"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal Campaign to Support Incubators for Newborn & Premature Babies"
+    },
+    {
+     "t": "h",
+     "x": "Born Early"
+    },
+    {
+     "t": "p",
+     "x": "\"I was born early... before the world was ready for me. I need an incubator to protect me until I grow.\""
+    },
+    {
+     "t": "h",
+     "x": "Why an Incubator?"
+    },
+    {
+     "t": "p",
+     "x": "Sometimes we arrive before our time, and find the place isn't ready yet. That is what happens to a premature baby: they come into the world before their development is complete, and need special care and extra protection to begin their journey safely."
+    },
+    {
+     "t": "p",
+     "x": "An incubator is not a luxury; it is a chance at life. A baby who arrived early cannot wait, and every night spent in the incubator makes a difference to their health and future."
+    },
+    {
+     "t": "h",
+     "x": "Mersal's Vision"
+    },
+    {
+     "t": "p",
+     "x": "Mersal works to close the shortage of newborn incubators in Egypt by providing specialized medical care of uncompromising quality, and expanding incubator capacity until the service reaches every child who needs it."
+    },
+    {
+     "t": "p",
+     "x": "Today, Mersal provides incubator services through two centers in Faisal and Maadi."
+    },
+    {
+     "t": "h",
+     "x": "Our Latest Medical Project: Maadi Incubator Center"
+    },
+    {
+     "t": "p",
+     "x": "In celebration of our latest medical project, Mersal has opened a specialized center for newborn and premature babies in Maadi:"
+    },
+    {
+     "t": "p",
+     "x": "23 Incubators"
+    },
+    {
+     "t": "p",
+     "x": "Including two isolation incubators"
+    },
+    {
+     "t": "p",
+     "x": "3 Fully Equipped Wards"
+    },
+    {
+     "t": "p",
+     "x": "7 incubators in each ward, with 350 m² per ward"
+    },
+    {
+     "t": "p",
+     "x": "24-Hour Care"
+    },
+    {
+     "t": "p",
+     "x": "All days of the week, with two shifts daily"
+    },
+    {
+     "t": "p",
+     "x": "Two Isolation Rooms"
+    },
+    {
+     "t": "p",
+     "x": "For cases requiring separation, per infection-control standards"
+    },
+    {
+     "t": "p",
+     "x": "Pharmacy"
+    },
+    {
+     "t": "p",
+     "x": "And feeding & breastfeeding rooms"
+    },
+    {
+     "t": "h",
+     "x": "Our Achievements in the First 9 Months of 2026"
+    },
+    {
+     "t": "p",
+     "x": "24,838"
+    },
+    {
+     "t": "p",
+     "x": "ICU bed & incubator nights booked"
+    },
+    {
+     "t": "p",
+     "x": "2,789"
+    },
+    {
+     "t": "p",
+     "x": "Cases"
+    },
+    {
+     "t": "p",
+     "x": "94,400,491"
+    },
+    {
+     "t": "p",
+     "x": "EGP cost of care"
+    },
+    {
+     "t": "h",
+     "x": "Be the Reason a Baby Born Early Lives"
+    },
+    {
+     "t": "p",
+     "x": "Incubator Share"
+    },
+    {
+     "t": "p",
+     "x": "EGP 75"
+    },
+    {
+     "t": "p",
+     "x": "Incubator Night"
+    },
+    {
+     "t": "p",
+     "x": "EGP 3,000"
+    },
+    {
+     "t": "p",
+     "x": "Your donation to incubators is an ongoing charity (Sadaqah Jariyah), its impact lasting as long as the child breathes and grows."
+    },
+    {
+     "t": "p",
+     "x": "Emergencies & inquiries: 19340"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Charity & Development Foundation | Born Early"
+    }
+   ]
+  },
+  "images": [],
+  "map": null
+ },
+ {
+  "id": 5,
+  "slug": "oncology-center",
+  "group": "projects",
+  "title": {
+   "ar": "مركز مرسال لعلاج الأورام",
+   "en": "About Mersal Oncology center"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "h",
+     "x": "مركز مرسال للأورام"
+    },
+    {
+     "t": "p",
+     "x": "تم إفتتاح مركز مرسال للأورام في يوليو 2016 ويقدم المركز خدمات الفحص والمتابعة وجرعات العلاج الكيميائي، ويدعم التدخلات والعلاج الإشعاعي والزرع في المراكز المتخصصة، ويدعم المركز مريض الأورام بكافة الفحوصات والخدمات التي يحتاجها."
+    },
+    {
+     "t": "h",
+     "x": "الخدمات التي يقدمها المركز"
+    },
+    {
+     "t": "li",
+     "x": "الفحوصات والمتابعات"
+    },
+    {
+     "t": "li",
+     "x": "الفحوصات الدورية المجانية"
+    },
+    {
+     "t": "li",
+     "x": "جرعات العلاج الكيميائي"
+    },
+    {
+     "t": "li",
+     "x": "التدخلات الجراحية"
+    },
+    {
+     "t": "li",
+     "x": "العلاج الإشعاعي والزرع (بالمراكز المتخصصة المتعاقدين معها)"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "Mersal Oncology Center"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Oncology Center was opened in July 2016. The center provides examination and follow-up services, chemotherapy doses, and supports interventions , radiotherapy and transplantation in specialized centers. The center supports the oncology patient with all the examinations and services he needs."
+    },
+    {
+     "t": "h",
+     "x": "Services provided by the center"
+    },
+    {
+     "t": "li",
+     "x": "Examinations and follow-ups"
+    },
+    {
+     "t": "li",
+     "x": "Free periodic checkups"
+    },
+    {
+     "t": "li",
+     "x": "chemotherapy doses"
+    },
+    {
+     "t": "li",
+     "x": "Surgical interventions"
+    },
+    {
+     "t": "li",
+     "x": "Radiation therapy and transplantation."
+    }
+   ]
+  },
+  "images": [
+   "/media/oncology-center-1.jpg",
+   "/media/oncology-center-2.jpg",
+   "/media/oncology-center-3.jpg",
+   "/media/oncology-center-4.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 52,
+  "slug": "nicu",
+  "group": "projects",
+  "title": {
+   "ar": "مشروع حضانات مرسال",
+   "en": "NICU"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "بدأت فكرة المشروع من حضانات مرسال. عندما قدمت مرسال للمرضى غير القادرين 12 محضن بأجهزتهم، وطاقم طبي مكون من استشاريين ونواب من أفضل المستشفيات الجامعية في مصر، وقسم تمريض كامل، يتم الحجز بالحضانة وتقديم كافة الاحتياجات الطبية للمولود، بالإضافة لمتابعة ما بعد الخروج. وعلى الرغم من ذلك مازالت الفجوة كبيرة بين الاحتياج والمتوفر."
+    },
+    {
+     "t": "p",
+     "x": "فبدأت مرسال دورها لتقليل الفارق من خلال مشروع مركز الحالات الحرجة للأطفال حديثي الولادة والذي سيتضمن 21 محضن و6 آسرة رعاية مركزة في مبنى يتكون من ثلاث طوابق."
+    },
+    {
+     "t": "p",
+     "x": "ادعم الأطفال حديثي الولادة بسهم قيمته 75 جنيه"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "Mersal Nursery Project"
+    },
+    {
+     "t": "p",
+     "x": "The idea of the project started from Mirsal nurseries. When Mersal provided the incapacitated patients with 12 incubators with their devices, a medical staff consisting of consultants and deputies from the best university hospitals in Egypt, and a full nursing department, reservations are made in the nursery and all the medical needs of the newborn are provided, in addition to post-discharge follow-up. Despite this, there is still a large gap between need and availability."
+    },
+    {
+     "t": "p",
+     "x": "Mersal started its role to reduce the difference through the Critical Cases Center project for newborns, which will include 21 incubators and 6 intensive care beds in a building consisting of three floors."
+    },
+    {
+     "t": "p",
+     "x": "Support newborn babies with a share of EGP 75"
+    }
+   ]
+  },
+  "images": [
+   "/media/nicu-1.jpg",
+   "/media/nicu-2.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 18,
+  "slug": "emergency-team",
+  "group": "projects",
+  "title": {
+   "ar": "فريق الطوارئ في مرسال",
+   "en": "Emergency Service"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "تهدف مرسال لأن تصبح المنقذ الأول لكافة المرضى بتقديم الدعم الفوري العاجل، فتوفر بمشروع الطوارئ خدمات طبية عاجلة على مدار 24 ساعة من خلال فريق يعمل على توفير أسرّة بالعناية المركزة والحضانات، والتنسيق للقيام بالعمليات الجراحية العاجلة؛ بهدف إنقاذ حياة المرضى."
+    },
+    {
+     "t": "p",
+     "x": "مرسال تسعى لأن تكون المنقذ الأول الذي يأتي على بال من يحتاج الدعم الفوري في أي وقت من خلال خدمة الطوارئ"
+    },
+    {
+     "t": "h",
+     "x": "الخدمات التي تقدمها الطوارئ"
+    },
+    {
+     "t": "li",
+     "x": "الرعاية المركزة ( متوسط تكلفة اليوم 4000 جنيه)"
+    },
+    {
+     "t": "li",
+     "x": "الحضَانات (متوسط تكلفة اليوم 2500 جنيه)"
+    },
+    {
+     "t": "li",
+     "x": "العمليات الجراحية العاجلة ( سهم التبرع 1000 جنيه)"
+    },
+    {
+     "t": "li",
+     "x": "إسعاف مرسال"
+    },
+    {
+     "t": "p",
+     "x": "أكثر من 4000 مريض مستفيد بعام 2021 وأكثر من 168 مليون جنيه التكلفة السنوية بعام 2021"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "Mersal Emergency Team"
+    },
+    {
+     "t": "p",
+     "x": "Mersal aims to become the first savior for all patients by providing immediate and urgent support. In the emergency project, it provides urgent medical services 24 hours a day through a team that works to provide beds for intensive care and incubators, and coordinate to perform urgent surgical operations; In order to save the lives of patients.."
+    },
+    {
+     "t": "p",
+     "x": "Mersal seeks to be the first savior who comes to the mind of those who need immediate support at any time through the emergency service"
+    },
+    {
+     "t": "h",
+     "x": "Services provided by emergency"
+    },
+    {
+     "t": "li",
+     "x": "Intensive care (the average cost per day is 4000 EGP)"
+    },
+    {
+     "t": "li",
+     "x": "Nurseries (average cost per day 2500 EGP)"
+    },
+    {
+     "t": "li",
+     "x": "Urgent surgeries (donation share 1000 pounds)"
+    },
+    {
+     "t": "li",
+     "x": "ambulance messenger"
+    },
+    {
+     "t": "p",
+     "x": "More than 4000 patients benefited in 2021 And more than 168 million pounds, the annual cost in 2021"
+    }
+   ]
+  },
+  "images": [
+   "/media/emergency-team-1.jpg",
+   "/media/emergency-team-2.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 32,
+  "slug": "guest-house",
+  "group": "projects",
+  "title": {
+   "ar": "دار الضيافة في مرسال",
+   "en": "Mersal Guest House"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "توفر دار ضيافة مرسال إقامة مجانية بمحافظة القاهرة للمرضى المغتربين الذين يواجهون عدم القدرة على السفر يوميًا وتحمل تكلفة الإقامة بمحافظة أخرى."
+    },
+    {
+     "t": "p",
+     "x": "الدار تتسع لإقامة 50 ضيف، وتوفر الإقامة للمرضى المسجلين أو غير المسجلين بمرسال كما استضافت الدار 438 ضيف بعام 2021."
+    },
+    {
+     "t": "h",
+     "x": "خدمات دار الضيافة"
+    },
+    {
+     "t": "li",
+     "x": "إقامة مجانية"
+    },
+    {
+     "t": "li",
+     "x": "تقديم الوجبات اليومية"
+    },
+    {
+     "t": "li",
+     "x": "إقامة مرافق"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal Guest House provides free accommodation in Cairo for expatriate patients who face the inability to travel daily and the cost of accommodation in another governorate."
+    },
+    {
+     "t": "p",
+     "x": "The house can accommodate 50 guests, and provides accommodation for registered or unregistered patients, The house hosted 438 guests in 2021 ."
+    },
+    {
+     "t": "h",
+     "x": "Guest house services"
+    },
+    {
+     "t": "li",
+     "x": "free stay"
+    },
+    {
+     "t": "li",
+     "x": "Serving daily meals"
+    },
+    {
+     "t": "li",
+     "x": "Accommodation facilities"
+    }
+   ]
+  },
+  "images": [
+   "/media/guest-house-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 33,
+  "slug": "hekayet-sot",
+  "group": "projects",
+  "title": {
+   "ar": "مشروع حكاية صوت",
+   "en": "Story of Sound (Cochlear Implantation)"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "قد يكون العلاج بسيطاً فقط يحتاج دعم حتى يتحقق الشفاء. هذا هو الحال مع ضعاف السمع والصم الذين يمكن مساعدتهم وتحسين وظيفتهم السمعية ودمجهم في المجتمع من خلال عمليات زراعة القوقعة (للأطفال فوق السن حيث تنتهي تغطية التأمين عند سن 5 سنوات فقط) أو تركيب السماعات."
+    },
+    {
+     "t": "p",
+     "x": "تتدخل مرسال بمشروع حكاية صوت لمساعدة الأطفال ضعاف السمع، ويقدم المشروع جلسات تخاطب وتنمية مهارات وتعديل سلوك؛ لمساعدتهم على التواصل واستعادة مهاراتهم."
+    },
+    {
+     "t": "h",
+     "x": "خدمات حكاية صوت"
+    },
+    {
+     "t": "li",
+     "x": "المشاركة في زراعة القوقعة - سهم المشاركة 1500 جنيه -إجمالي التكلفة 180 ألف جنيه"
+    },
+    {
+     "t": "li",
+     "x": "المشاركة في السماعات الطبية - سهم المشاركة 500 جنيه - سعر السماعة 4500 جنيه"
+    },
+    {
+     "t": "li",
+     "x": "جلسات تخاطب وتعديل سلوك للأطفال - سهم الجلسة 100 جنيه."
+    },
+    {
+     "t": "li",
+     "x": "صيانة وتصليح الأجهزة المساعدة."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Treatment may be simple and only needs support until recovery is achieved. This is the case with the hard of hearing and the deaf who can be helped, improve their auditory function and integrate into society through cochlear implants (for children over the age where insurance coverage ends at the age of 5 years only) or the installation of hearing aids."
+    },
+    {
+     "t": "p",
+     "x": "Mersal is involved in the Hekaya Sawt project to help hearing-impaired children. The project offers speech sessions, skills development and behavior modification; To help them communicate and restore their skills."
+    },
+    {
+     "t": "h",
+     "x": "Sout project Services"
+    },
+    {
+     "t": "li",
+     "x": "Participation in Cochlear implants - participation share 1500 pounds - (total cost 180 thousand pounds)"
+    },
+    {
+     "t": "li",
+     "x": "Medical stethoscopes - participation share 500 pounds - (the price of the hearing aid 4500 pounds)"
+    },
+    {
+     "t": "li",
+     "x": "Speech and behavior modification sessions for children - session share 100 pounds"
+    },
+    {
+     "t": "li",
+     "x": "Maintenance and repair of auxiliary devices."
+    }
+   ]
+  },
+  "images": [
+   "/media/hekayet-sot-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 34,
+  "slug": "pku",
+  "group": "projects",
+  "title": {
+   "ar": "علاج مرضى الPKU",
+   "en": "PKU treatment project"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "مرض الـ PKU هو أحد أمراض التمثيل الغذائي والتي يتم اكتشافها في الأسابيع الأولى من ولادة الطفل، وهو مرض مُكلف ماديا، لأن الطفل المصاب به يكون غير قادرا على تحمل الأطعمة المعتادة مثل: الخبز والمعكرونة والأرز وغيرها من منتجات القمح التي تحتوي على الأحماض الأمينية وبالتالي تتكلف الأسرة الغير قادرة عبء مادي كبير لتوفير أنواع محددة من الأغذية الخاصة المناسبة لهذا الطفل."
+    },
+    {
+     "t": "p",
+     "x": "يؤدي عدم العلاج السريع لتلك الحالات لحدوث مضاعفات منها: الإعاقة الذهنية واضطرابات سلوكية وعقلية ونوبات من التشنجات."
+    },
+    {
+     "t": "h",
+     "x": "ماذا تقدم مرسال لدعم أطفال الPKU؟"
+    },
+    {
+     "t": "li",
+     "x": "كرتونة مجانية بها الاحتياج الشهري للأطعمة الخاصة بالمرضى ."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "PKU is a metabolic disease that is discovered in the first weeks of a child’s birth, and it is a costly disease, because the affected child is unable to tolerate the usual foods such as: bread, pasta, rice and other wheat products that contain amino acids and thus cost A family who is unable to provide a large financial burden to provide specific types of special foods suitable for this child."
+    },
+    {
+     "t": "p",
+     "x": "Failure to treat these cases quickly leads to complications, including: intellectual disability, behavioral and mental disorders, and seizures."
+    },
+    {
+     "t": "h",
+     "x": "What does Mersal offer to support PKU children?"
+    },
+    {
+     "t": "li",
+     "x": "A free carton containing the monthly need for patients' foods."
+    }
+   ]
+  },
+  "images": [
+   "/media/pku-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 35,
+  "slug": "convoys",
+  "group": "projects",
+  "title": {
+   "ar": "قوافل مرسال",
+   "en": "Mersal Convoys"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "يستمر سعي مرسال في تقديم الخدمات التكاملية مع مقدمي الخدمات الطبية ولهذا يشارك فريق القوافل بمرسال بقوافل تستهدف وتخدم القرى والنجوع، وتقدم حملات توعوية وتثقيف طبي للمقيمين بتلك المناطق المستهدفة."
+    },
+    {
+     "t": "p",
+     "x": "في مرسال نحزم أمتعتنا لتوصيل الوعي الصحي والخدمات الطبية حتى أبعد المحافظات والقرى المهمشة."
+    },
+    {
+     "t": "h",
+     "x": "قوافل عامة."
+    },
+    {
+     "t": "li",
+     "x": "قوافل إغاثة (تم عمل 5 قوافل إغاثة)."
+    },
+    {
+     "t": "li",
+     "x": "قوافل دعم مستشفيات ( تم دعم 68 مستشفى ) ."
+    },
+    {
+     "t": "h",
+     "x": "قوافل متخصصة."
+    },
+    {
+     "t": "li",
+     "x": "قوافل عيادات الجذام (تم دعم 12 عيادة)"
+    },
+    {
+     "t": "li",
+     "x": "قوافل الدعم المعنوي للعاملين بقطاع الصحة، والمرضى (تم دعم 7 مستشفيات)"
+    },
+    {
+     "t": "li",
+     "x": "قوافل دعم دور الإيواء للأطفال ودور المسنين: (تم دعم 26 دار)"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal continues to strive to provide complementary services with medical service providers, and for this reason, the convoy team in Mersal participates in convoys targeting and serving villages and hamlets, and providing awareness campaigns and medical education for residents of those targeted areas."
+    },
+    {
+     "t": "p",
+     "x": "At Mersal, we pack our belongings to deliver health awareness and medical services to the most remote provinces and marginalized villages"
+    },
+    {
+     "t": "h",
+     "x": "General caravans:"
+    },
+    {
+     "t": "li",
+     "x": "Relief convoys (5 relief convoys have been made)"
+    },
+    {
+     "t": "li",
+     "x": "Hospitals support convoys (68 hospitals were supported) ."
+    },
+    {
+     "t": "h",
+     "x": "Specialized caravans:"
+    },
+    {
+     "t": "li",
+     "x": "Leprosy clinic convoys (12 clinics supported)"
+    },
+    {
+     "t": "li",
+     "x": "Convoys of moral support for health workers and patients (7 hospitals were supported)"
+    },
+    {
+     "t": "li",
+     "x": "Convoys to support shelters for children and homes for the elderly: (26 homes were supported)"
+    }
+   ]
+  },
+  "images": [
+   "/media/convoys-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 36,
+  "slug": "psychological-support",
+  "group": "projects",
+  "title": {
+   "ar": "مشروع الدعم النفسى",
+   "en": "Psychological support project"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "تؤمن مرسال بأهمية تكامل الخدمات الطبية المقدمة للمرضى وذويهم، ولذلك تقوم مرسال بتوفير جلسات الدعم النفسي للمرضى المسجلين بها لحين الشفاء، وكذلك تدعم ذوي وأسر المرضى لأنها تشعر بمعاناتهم في فترة مرض أحد أفراد أسرتهم."
+    },
+    {
+     "t": "p",
+     "x": "ومن خلال مشروع الدعم النفسي خدمت مرسال أكثر من 2000 فرد بعام 2021"
+    },
+    {
+     "t": "h",
+     "x": "ينقسم المشروع إلى"
+    },
+    {
+     "t": "li",
+     "x": "الدعم النفسي للمرضى"
+    },
+    {
+     "t": "li",
+     "x": "الدعم النفسي لأسر المرضى."
+    },
+    {
+     "t": "li",
+     "x": "عيادات مرسال النفسية المجانية لغير المسجلين بمرسال"
+    },
+    {
+     "t": "li",
+     "x": "جلسات الدعم النفسي الجماعي لمصابي الكورونا"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal believes in the importance of integrating medical services provided to patients and their families. Therefore, Mersal provides psychological support sessions for registered patients until recovery, as well as supports patients' families because they feel their suffering during the illness of one of their family members."
+    },
+    {
+     "t": "p",
+     "x": "Through the psychological support project, Mirsal served more than 2,000 individuals in 2021"
+    },
+    {
+     "t": "h",
+     "x": "The project is divided into"
+    },
+    {
+     "t": "li",
+     "x": "Psychological support for patients"
+    },
+    {
+     "t": "li",
+     "x": "Psychological support for patients' families."
+    },
+    {
+     "t": "li",
+     "x": "Mersal free psychiatric clinics for those not registered with Mersal"
+    },
+    {
+     "t": "li",
+     "x": "Group psychological support sessions for people with corona"
+    }
+   ]
+  },
+  "images": [
+   "/media/psychological-support-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 37,
+  "slug": "monthly-treatment",
+  "group": "services",
+  "title": {
+   "ar": "خدمة العلاج الشهري",
+   "en": "Monthly treatment"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "يعاني مرضى الأمراض المزمنة من ارتفاع تكلفة الأدوية التي لا يستطيعون توفيرها شهريًا؛ ولهذا تتدخل مرسال بخدمة العلاج الشهري لتخدم أكثر من 1000 مريض سنويًا، ويتم مساعدة مرضى الأمراض المزمنة، والأمراض المناعية مرتفعة التكلفة المادية شهريًا حتى على الأسر متوسطة الدخل."
+    },
+    {
+     "t": "li",
+     "x": "متوسط تكلفة علاج مريض الروماتويد شهريًا حوالي 5000 جنيه"
+    },
+    {
+     "t": "li",
+     "x": "متوسط تكلفة علاج الذئبة الحمراء شهريًا حوالي 2000 جنيه"
+    },
+    {
+     "t": "li",
+     "x": "متوسط تكلفة علاج الصدفية شهريًا حوالي 7000 جنيه"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Chronic disease patients suffer from the high cost of medicines that they cannot afford each month; That is why Mersal intervenes with the monthly treatment service to serve more than 1,000 patients annually, and patients with chronic diseases and immune diseases are helped at a high cost per month, even for middle-income families."
+    },
+    {
+     "t": "li",
+     "x": "The average cost of treating a rheumatoid patient per month is about 5000 EGP."
+    },
+    {
+     "t": "li",
+     "x": "The average cost of treating Lupus per month is about 2000 EGP"
+    },
+    {
+     "t": "li",
+     "x": "The average cost of psoriasis treatment per month is about 7000 EGP."
+    }
+   ]
+  },
+  "images": [
+   "/media/monthly-treatment-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 38,
+  "slug": "medical-checkups",
+  "group": "services",
+  "title": {
+   "ar": "الكشف الطبى والفحوصات",
+   "en": "Medical Investigation"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "توفر مرسال خدمة الكشف الطبي للمرضى غير القادرين، وذلك بغرض اكتشاف المرض أو الفحص الدوري الذي يحتاجه بعض المرضى المصابين بأمراض مزمنة تحتاج للمتابعة."
+    },
+    {
+     "t": "p",
+     "x": "ورغم ارتفاع تكلفة التحاليل والأشعة التي يحتاجها المرضى إلا إن مرسال متعاقدة مع العديد من مقدمي الخدمة لتسهيل وصول المرضى للخدمة المطلوبة."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal provides a medical examination service for patients who are unable to, for the purpose of discovering the disease or the periodic examination needed by some patients with chronic diseases that need follow-up."
+    },
+    {
+     "t": "p",
+     "x": "Despite the high cost of tests and x-rays that patients need, Mirsal has contracts with many service providers to facilitate patients' access to the required service."
+    }
+   ]
+  },
+  "images": [
+   "/media/medical-checkups-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 39,
+  "slug": "surgeries",
+  "group": "services",
+  "title": {
+   "ar": "العمليات الجراحية",
+   "en": "surgeries"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "يعاني المرضى من أمراض لابد من علاجها بتدخل جراحي، للحفاظ على حياتهم، ومنع أية مضاعفات مُحتمل الإصابة بها أو للتخلص من ألم بسبب هذا المرض، وتوفر مرسال خدمة العمليات الجراحية للمرضى غير القادرين وذلك من خلال شبكة مستشفيات تعاقدت معها مرسال للقيام بتلك العمليات مهما بلغت التكلفة."
+    },
+    {
+     "t": "li",
+     "x": "عدد العمليات التي قامت بها مرسال خلال 2021 :- 144 عملية"
+    },
+    {
+     "t": "li",
+     "x": "تكلفة العمليات الجراحية :- 13.100.000 جنيه"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "Surgeries"
+    },
+    {
+     "t": "p",
+     "x": "Patients suffer from diseases that must be treated with surgical intervention, to preserve their lives, prevent any possible complications or to get rid of pain due to this disease,Mersal provides surgical services for patients who are unable to do so through a network of hospitals that Mirsal has contracted with to carry out these operations, regardless of the cost."
+    },
+    {
+     "t": "li",
+     "x": "Number of operations carried out by Mersal during 2021: - 144 operations"
+    },
+    {
+     "t": "li",
+     "x": "Operations cost: - 13,100,000 EGP"
+    }
+   ]
+  },
+  "images": [
+   "/media/surgeries-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 40,
+  "slug": "medical-debt",
+  "group": "services",
+  "title": {
+   "ar": "سداد ديون المرضى",
+   "en": "Medical Debt Support"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "قد يقع العبء المادي على المرضى بشكل يمنعهم من القدرة على السداد وذلك بسبب ارتفاع تكلفة الخدمات الطبية أو عدم قدرة المريض على العمل؛ فيصبح معرضًا للسجن."
+    },
+    {
+     "t": "p",
+     "x": "تقوم مرسال بسداد الديون عن المرضى والتي نتجت ديونهم عن المرض."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "The financial burden may fall on patients in a way that prevents them from being able to pay due to the high cost of medical services or the patient’s inability to work; He is liable to imprisonment."
+    },
+    {
+     "t": "p",
+     "x": "Mersal pays the debts of the patients whose debts resulted from the disease."
+    }
+   ]
+  },
+  "images": [
+   "/media/medical-debt-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 41,
+  "slug": "medical-supplies",
+  "group": "services",
+  "title": {
+   "ar": "المستلزمات طبية",
+   "en": "Medical Tools"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "قد لا تتوفر الأجهزة المساعدة التي يحتاجها المريض حال إصابته بإعاقة جسدية، ومع عدم توافر الأجهزة المساعدة قد تتوقف حياة البعض؛ فتقوم مرسال بمساعدة الأسر غير القادرة بتوفير الأجهزة المساعدة، وفحص وصيانة أي أجهزة يستخدمها المريض."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "The assistive devices that the patient needs may not be available if he has a physical disability, and with the lack of assistive devices, the lives of some may stop; Mirsal helps families who are unable to provide assistive devices, and checks and maintains any devices used by the patient."
+    }
+   ]
+  },
+  "images": [
+   "/media/medical-supplies-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 42,
+  "slug": "family-sponsorship",
+  "group": "services",
+  "title": {
+   "ar": "كفالات أسر المرضى",
+   "en": "Social Aid Services"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "تحاول مرسال تقديم خدمة تكاملية للمرضى وتسعى لتحسين الحياة ولهذا تقوم من خلال مشروع الكفالات للمرضى بتوفير مساعدات شهرية يتم تقديمها للمرضى لحين الشفاء أو القدرة على العمل لتغطية احتياجات الأسرة، فإصابة أحد الأفراد بمرض قد يستنزف كافة الموارد المادية للأسرة، وقد يكون المرض عائقًا لعمل رب العائلة فيصبح غير قادرًا على توفير الاحتياجات الأساسية للمعيشة."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal is trying to provide an integrated service to patients and seeks to improve life. For this reason, through the sponsorship project for patients, it provides monthly aid to patients until recovery or the ability to work to cover the needs of the family. The disease of an individual may drain all the material resources of the family, and the disease may be an obstacle to the work of the head of the family. It becomes unable to provide for the basic needs of living."
+    },
+    {
+     "t": "p",
+     "x": "Donation share: 750 pounds"
+    }
+   ]
+  },
+  "images": [
+   "/media/family-sponsorship-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 43,
+  "slug": "clinics",
+  "group": "sustainability",
+  "title": {
+   "ar": "عيادات مرسال",
+   "en": "Mersal Clinics"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "توفر عيادات مرسال الخدمة الطبية بأعلى مستوى من الكفاءة للمرضى القادرين وغير القادرين. يوجد أكثر من 15 تخصص."
+    },
+    {
+     "t": "h",
+     "x": "تخصصات عيادات مرسال"
+    },
+    {
+     "t": "li",
+     "x": "التغذية العلاجية."
+    },
+    {
+     "t": "li",
+     "x": "طب الأطفال.."
+    },
+    {
+     "t": "li",
+     "x": "أمراض الدم."
+    },
+    {
+     "t": "li",
+     "x": "الطب النفسي"
+    },
+    {
+     "t": "li",
+     "x": "طب مسنين."
+    },
+    {
+     "t": "li",
+     "x": "روماتويد."
+    },
+    {
+     "t": "li",
+     "x": "مخ وأعصاب."
+    },
+    {
+     "t": "li",
+     "x": "جلدية."
+    },
+    {
+     "t": "li",
+     "x": "باطنة - كلى"
+    },
+    {
+     "t": "li",
+     "x": "جراحة أورام."
+    },
+    {
+     "t": "li",
+     "x": "أورام"
+    },
+    {
+     "t": "li",
+     "x": "جراحة عظام."
+    },
+    {
+     "t": "li",
+     "x": "قلب وأوعية دموية"
+    },
+    {
+     "t": "li",
+     "x": "جراحة عامة."
+    },
+    {
+     "t": "h",
+     "x": "للحجز و الإستفسار:"
+    },
+    {
+     "t": "p",
+     "x": "01004814484 - 01004814487"
+    },
+    {
+     "t": "h",
+     "x": "العنوان:"
+    },
+    {
+     "t": "p",
+     "x": "21 شارع جابر بن حيان، متفرع من شارع الدقي."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "Mersal Clinics provide medical service with the highest level of efficiency for able and unable patients. There are more than 15 specialties."
+    },
+    {
+     "t": "h",
+     "x": "Mersal Clinics Specializations"
+    },
+    {
+     "t": "li",
+     "x": "Therapeutic nutrition."
+    },
+    {
+     "t": "li",
+     "x": "Pediatrics."
+    },
+    {
+     "t": "li",
+     "x": "Blood diseases."
+    },
+    {
+     "t": "li",
+     "x": "Psychiatry."
+    },
+    {
+     "t": "li",
+     "x": "Elderly medicine."
+    },
+    {
+     "t": "li",
+     "x": "Neurologists."
+    },
+    {
+     "t": "li",
+     "x": "Dermatology.."
+    },
+    {
+     "t": "li",
+     "x": "Rheumatoid."
+    },
+    {
+     "t": "li",
+     "x": "internal - kidneys"
+    },
+    {
+     "t": "li",
+     "x": "Oncological surgery."
+    },
+    {
+     "t": "li",
+     "x": "tumors"
+    },
+    {
+     "t": "li",
+     "x": "Orthopedic surgery."
+    },
+    {
+     "t": "li",
+     "x": "Heart and blood vessels."
+    },
+    {
+     "t": "li",
+     "x": "General Surgery."
+    },
+    {
+     "t": "h",
+     "x": "For reservations and inquiries:"
+    },
+    {
+     "t": "p",
+     "x": "01004814484 - 01004814487"
+    },
+    {
+     "t": "h",
+     "x": "Address:"
+    },
+    {
+     "t": "p",
+     "x": "21 Jaber Ibn Hayyan Street, off Dokki Street."
+    }
+   ]
+  },
+  "images": [
+   "/media/clinics-1.jpg"
+  ],
+  "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.115402695973!2d31.2106009!3d30.033546899999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145846d1484c9e87%3A0x1e992a8b7268855f!2s21%20Gaber%20Ibn%20Hayan%2C%20Ad%20Doqi%2C%20Dokki%2C%20Giza%20Governorate%2012311!5e0!3m2!1sen!2seg!4v1676278851984!5m2!1sen!2seg"
+ },
+ {
+  "id": 45,
+  "slug": "store",
+  "group": "sustainability",
+  "title": {
+   "ar": "متجر مرسال",
+   "en": "Mersal store"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "يعد متجر مرسال أحد المشاريع في مؤسسة مرسال، وتعود أرباحه للمساعدة في علاج المرضى كمشروع استدامة مربح لضمان استمرارية الخدمة العلاجية المجانية للمحتاجين وتوفير هامش ربح لتغطية بعض النفقات الإدارية."
+    },
+    {
+     "t": "h",
+     "x": "فروعنا"
+    },
+    {
+     "t": "li",
+     "x": "المعادى الجديدة: 8 شارع 263- المعادى الجديدة",
+     "href": "https://bit.ly/2FiFw4n"
+    },
+    {
+     "t": "li",
+     "x": "مدينة نصر: 26 شارع الطيران - الدور الاول شقة رقم 1 - رابعة العدوية - الحي الاول - مدينة نصر.",
+     "href": "https://bit.ly/3bdAw0E"
+    },
+    {
+     "t": "li",
+     "x": "التجمع الخامس: 595 عمارات النرجس. الدور الأول أمام مسجد فاطمة الشربتلي",
+     "href": "https://bit.ly/3iRkw3o"
+    },
+    {
+     "t": "li",
+     "x": "الشيخ زايد: كمبوند روضة المهندسين - عمارة زايد فيو (المدخل الثاني) - الحي السابع - المجاورة الاولى - قطعة رقم 158",
+     "href": "https://rb.gy/meijme"
+    },
+    {
+     "t": "li",
+     "x": "الإسكندرية: 276 عبد السلام عارف ، سيدي بشر - ترام.",
+     "href": "http://bit.ly/2O1HFmp"
+    },
+    {
+     "t": "li",
+     "x": "فرع سوق بنده بأول مكرم (مدينة نصر).",
+     "href": "https://www.google.com/maps/search/%D9%81%D8%B1%D8%B9+%D8%B3%D9%88%D9%82+%D8%A8%D9%86%D8%AF%D9%87+%D8%A8%D8%A3%D9%88%D9%84+%D9%85%D9%83%D8%B1%D9%85+(%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D9%86%D8%B5%D8%B1).%E2%80%AD/@30.0351807,31.3427966,13z/data=!3m1!4b1"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "Mersal Store"
+    },
+    {
+     "t": "p",
+     "x": "Mersal Store is one of the projects in the Mersal Foundation, and its profits are used to help treat patients as a profitable sustainability project to ensure continuity of free treatment service for those in need and to provide a profit margin to cover some administrative expenses."
+    },
+    {
+     "t": "h",
+     "x": "Branches"
+    },
+    {
+     "t": "li",
+     "x": "New Maadi: 8 Street 263- New Maadi",
+     "href": "https://bit.ly/2FiFw4n"
+    },
+    {
+     "t": "li",
+     "x": "Nasr City: 26 Tayaran Street - First Floor, Apartment No. 1 - Rabaa Al-Adawiya - First District, Nasr City.",
+     "href": "https://bit.ly/3bdAw0E"
+    },
+    {
+     "t": "li",
+     "x": "Fifth Settlement: 595 Al Narges Buildings. First floor in front of Fatima Al Sharbatly Mosque",
+     "href": "https://bit.ly/3iRkw3o"
+    },
+    {
+     "t": "li",
+     "x": "Sheikh Zayed : Rawdat Al Mohandesin Compound - Zayed View Building (Second Entrance) - Seventh District - First Neighborhood - Plot No. 158",
+     "href": "https://rb.gy/meijme"
+    },
+    {
+     "t": "li",
+     "x": "Alexandria: 276 Abdel Salam Aref, Sidi Bishr - Tram.",
+     "href": "http://bit.ly/2O1HFmp"
+    },
+    {
+     "t": "li",
+     "x": "Panda Market Branch in Awal Makram (Nasr City).",
+     "href": "https://www.google.com/maps/search/%D9%81%D8%B1%D8%B9+%D8%B3%D9%88%D9%82+%D8%A8%D9%86%D8%AF%D9%87+%D8%A8%D8%A3%D9%88%D9%84+%D9%85%D9%83%D8%B1%D9%85+(%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D9%86%D8%B5%D8%B1).%E2%80%AD/@30.0351807,31.3427966,13z/data=!3m1!4b1"
+    }
+   ]
+  },
+  "images": [
+   "/media/store-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 44,
+  "slug": "academy",
+  "group": "sustainability",
+  "title": {
+   "ar": "أكاديمية مرسال",
+   "en": "Mersal Academy"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "تهدف الأكاديمية لعمل برامج تعليمية في مجالات الإدارة وإدارة الأعمال لتكون مصدراً للتدريب على النهج العلمي لمدارس إدارة الأعمال العالمية."
+    },
+    {
+     "t": "p",
+     "x": "وتسعى أكاديمية مرسال لتقديم دورات تدريبية متخصصة مع أفضل المدربين المتخصصين؛ لتأهيل الشباب لسوق العمل، ومواجهة التحديات في معرفة الجديد في عالم الإدارة والمشروعات."
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "The Academy aims to create educational programs in the fields of management and business administration to be a source of training on the scientific approach to international business schools."
+    },
+    {
+     "t": "p",
+     "x": "Mersal Academy seeks to provide specialized training courses with the best specialized trainers; To qualify young people for the labor market, and to meet the challenges of knowing what is new in the world of management and projects."
+    }
+   ]
+  },
+  "images": [
+   "/media/academy-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 46,
+  "slug": "branches",
+  "group": "info",
+  "title": {
+   "ar": "عناوين الفروع",
+   "en": "Mersal Branches"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "li",
+     "x": "المعادي الجديدة : 8 شارع 263- المعادي الجديدة",
+     "href": "https://goo.gl/maps/jD81sxNKq1jSB1AT8"
+    },
+    {
+     "t": "li",
+     "x": "مدينة نصر : 26 شارع الطيران- الدور الأول شقة رقم 1 - رابعة العدوية - المنطقة الأولى مدينة نصر.",
+     "href": "https://goo.gl/maps/Sbzjs9JapBweFjq28"
+    },
+    {
+     "t": "li",
+     "x": "التجمع الخامس: 595 عمارات النرجس . الدور الأول أمام مسجد فاطمة الشربتلي",
+     "href": "https://goo.gl/maps/gtuuPGsqhV5TRAV47"
+    },
+    {
+     "t": "li",
+     "x": "الشيخ زايد : كومباوند روضة المهندسين - عمارة زايد فيو (المدخل الثاني) - الحي السابع - المجاورة الأولى - القطعة رقم 158",
+     "href": "https://goo.gl/maps/wazTdvW7iSdZ3EpAA"
+    },
+    {
+     "t": "li",
+     "x": "الدقي: 21 شارع جابر بن حيان، متفرع من شارع الدقي",
+     "href": "https://goo.gl/maps/TahkxuFQbHikU1M99"
+    },
+    {
+     "t": "li",
+     "x": "الإسكندرية: 276 عبد السلام عارف ، سيدي بشر- الترام.",
+     "href": "https://goo.gl/maps/SuobzkYpMCgXgKws6"
+    },
+    {
+     "t": "li",
+     "x": "سوهاج: 4 شارع الجمهورية أمام نادى التجديف. (الفرع يعمل من الأحد إلى الخميس من 8 ص لـ 9 م)",
+     "href": "https://www.google.com/maps/place/26%C2%B033'32.7%22N+31%C2%B041'55.3%22E/@26.5590835,31.6961083,17z/data=!3m1!4b1!4m4!3m3!8m2!3d26.5590835!4d31.6986832?hl=en&entry=ttu"
+    },
+    {
+     "t": "li",
+     "x": "ومتواجدين في بنده ماركت"
+    },
+    {
+     "t": "p",
+     "x": "فرع مدينة نصر : ٤ طريق النصر - بجانب قسم مدينة نصر أول - تقاطع مكرم عبيد - مدينة نصر"
+    },
+    {
+     "t": "p",
+     "x": "فرع أكتوبر : المحور المركزي - ميدان الحرية - بجانب سيتي سكيب مول - مدينة ٦ أكتوبر"
+    },
+    {
+     "t": "p",
+     "x": "فرع العبور :شارع سلمان الفارسي - أمام نادى العبور - الحي الأول - المحلية ٨ - مدينة العبور"
+    },
+    {
+     "t": "p",
+     "x": "مطعم حجوجة : حديقة المدفعية، شارع الصاعقة، دخلة مساكن شيراتون النزهة من طريق السويس، القاهرة."
+    },
+    {
+     "t": "p",
+     "x": "لولو هايبر ماركت :الطريق الدائرى التجمع الاول . داخل اميرالد توين بلازا - الدور الارضى بالقرب من مجمع النخيل بوابة رقم 2 بجوار أكاديمية الشرطة."
+    },
+    {
+     "t": "p",
+     "x": "ساقية الصاوي :ساقية الصاوي - الزمالك"
+    },
+    {
+     "t": "p",
+     "x": "مول أوبن إير : بوابة 2 أمام مطعم كوكو وتاي هاوس-مدينتي - طريق طلعت مصطفى"
+    },
+    {
+     "t": "p",
+     "x": "السوق الشرقي بالرحاب :ممر G - السوق الشرقي - الرحاب (أمام مطعم فواز وسمارة كافيه)"
+    },
+    {
+     "t": "p",
+     "x": "نادي الإتحاد السكندري :شارع الإسكندر الأكبر - الشاطبي - الإسكندرية"
+    }
+   ],
+   "en": [
+    {
+     "t": "li",
+     "x": "New Maadi: 8 Street 263- New Maadi",
+     "href": "https://goo.gl/maps/jD81sxNKq1jSB1AT8"
+    },
+    {
+     "t": "li",
+     "x": "Nasr City: 26 Tayaran Street - First Floor, Apartment No. 1 - Rabaa Al-Adawiya - First District, Nasr City.",
+     "href": "https://goo.gl/maps/Sbzjs9JapBweFjq28"
+    },
+    {
+     "t": "li",
+     "x": "Fifth Settlement: 595 Al Narges Buildings. First floor in front of Fatima Al Sharbatly Mosque",
+     "href": "https://goo.gl/maps/gtuuPGsqhV5TRAV47"
+    },
+    {
+     "t": "li",
+     "x": "Sheikh Zayed : Rawdat Al Mohandesin Compound - Zayed View Building (Second Entrance) - Seventh District - First Neighborhood - Plot No. 158",
+     "href": "https://goo.gl/maps/wazTdvW7iSdZ3EpAA"
+    },
+    {
+     "t": "li",
+     "x": "Dokki: 21 Jaber Ibn Hayyan Street, off Dokki Street",
+     "href": "https://goo.gl/maps/TahkxuFQbHikU1M99"
+    },
+    {
+     "t": "li",
+     "x": "Alexandria: 276 Abdel Salam Aref, Sidi Bishr",
+     "href": "https://goo.gl/maps/SuobzkYpMCgXgKws6"
+    },
+    {
+     "t": "li",
+     "x": "Sohag: 4 El Gomhoureya Street, in front of the Rowing Club. (The branch operates from Sunday to Thursday from 8 am to 9 pm) Telephone: 01004814487",
+     "href": "https://www.google.com/maps/place/26%C2%B033'32.7%22N+31%C2%B041'55.3%22E/@26.5590835,31.6961083,17z/data=!3m1!4b1!4m4!3m3!8m2!3d26.5590835!4d31.6986832?hl=en&entry=ttu"
+    },
+    {
+     "t": "li",
+     "x": "Panda Market ( Awal Makram) Nasr City"
+    }
+   ]
+  },
+  "images": [],
+  "map": null
+ },
+ {
+  "id": 47,
+  "slug": "volunteer",
+  "group": "info",
+  "title": {
+   "ar": "متطوعي مرسال",
+   "en": "Mersal Volunteers"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "p",
+     "x": "امتدادًا من وعي مرسال بأهمية تنمية المهارات الشخصية تقوم بتوفير أعمال تطوعية لمتطوعين مرسال، لمساعدتهم على تلقي المعرفة المناسبة للسن والاهتمامات."
+    },
+    {
+     "t": "p",
+     "x": "يحصل المتطوع على شهادة إتمام التطوع بعد عدد ساعات معينة حال رغبته في تقديمها للجامعات التي تتطلب تقديم ساعات تطوع لخدمة وتنمية المجتمع."
+    },
+    {
+     "t": "h",
+     "x": "يشارك متطوعي مرسال في كافة البرامج والخدمات التي نقدمها للمرضى"
+    },
+    {
+     "t": "li",
+     "x": "قوافل مرسال"
+    },
+    {
+     "t": "li",
+     "x": "فرز الأدوية"
+    },
+    {
+     "t": "li",
+     "x": "معارض الملابس"
+    },
+    {
+     "t": "li",
+     "x": "المؤتمرات"
+    }
+   ],
+   "en": [
+    {
+     "t": "p",
+     "x": "As an extension of Mersal's awareness of the importance of developing personal skills, it provides volunteer work to Mersal volunteers, to help them receive age-appropriate knowledge and interests."
+    },
+    {
+     "t": "p",
+     "x": "The volunteer obtains a certificate of volunteer completion after a certain number of hours if he wishes to submit it to universities that require providing volunteer hours for community service and development."
+    },
+    {
+     "t": "h",
+     "x": "Mersal volunteers participate in all programs and services that we provide to patients"
+    },
+    {
+     "t": "li",
+     "x": "Mersal convoys"
+    },
+    {
+     "t": "li",
+     "x": "sorting drugs"
+    },
+    {
+     "t": "li",
+     "x": "clothing fairs"
+    },
+    {
+     "t": "li",
+     "x": "Conferences"
+    }
+   ]
+  },
+  "images": [
+   "/media/volunteer-1.jpg"
+  ],
+  "map": null
+ },
+ {
+  "id": 48,
+  "slug": "ways-to-give",
+  "group": "info",
+  "title": {
+   "ar": "طرق التبرع لمرسال",
+   "en": "Donate to mersal"
+  },
+  "blocks": {
+   "ar": [
+    {
+     "t": "h",
+     "x": "طلب مندوب"
+    },
+    {
+     "t": "li",
+     "x": "تواصل معنا على 19340 أو 01200002870"
+    },
+    {
+     "t": "h",
+     "x": "تحويل فوري"
+    },
+    {
+     "t": "li",
+     "x": "عن طريق فوري بكود رقم 9200 (اتصالات كاش ، أورانج كاش، محافظ البنوك من خلال فوري)"
+    },
+    {
+     "t": "li",
+     "x": "محفظة فودافون كاش (من خلال ميجا خير)"
+    },
+    {
+     "t": "li",
+     "x": "عن طريق (مصاري ،ضامن، الأهلي ممكن، Opay، Bee، أمان) باسم المؤسسة فقط."
+    },
+    {
+     "t": "li",
+     "x": "ابعت رسالة بـ5 جنيه على رقم 9599 بكلمة Mersal أو مرسال."
+    },
+    {
+     "t": "h",
+     "x": "فروع مرسال"
+    },
+    {
+     "t": "li",
+     "x": "التبرع في فروع مرسال(المعادي، التجمع الخامس، مدينة نصر، زايد، الدقي، الإسكندرية، سوهاج، بنده ماركت (أول مكرم)"
+    }
+   ],
+   "en": [
+    {
+     "t": "h",
+     "x": "request a representative"
+    },
+    {
+     "t": "li",
+     "x": "call us on 19340 or 01200002870"
+    },
+    {
+     "t": "h",
+     "x": "Via Fawry"
+    },
+    {
+     "t": "li",
+     "x": "with code number 9200 (Etisalat Cash, Orange Cash, Bank Wallets through Fawry"
+    },
+    {
+     "t": "li",
+     "x": "Vodafone Cash wallet (through Mega Khair)"
+    },
+    {
+     "t": "li",
+     "x": "through (Masari, Daman, Al Ahly Possible, Opay, Bee, Aman) in the name of the institution only."
+    },
+    {
+     "t": "li",
+     "x": "Send a message for 5 pounds to the number 9599 with the word Mersal."
+    },
+    {
+     "t": "h",
+     "x": "Mersal branches"
+    },
+    {
+     "t": "li",
+     "x": "donate at Mersal branches (Maadi, Fifth Settlement, Nasr City, Zayed, Dokki, Alexandria, Sohag, Panda Market (Awal Makram)"
+    },
+    {
+     "t": "h",
+     "x": "Bank transfer"
+    },
+    {
+     "t": "li",
+     "x": "CIB Bank"
+    },
+    {
+     "t": "li",
+     "x": "Pound : 100034654454"
+    },
+    {
+     "t": "li",
+     "x": "Dollar : 100034654357"
+    },
+    {
+     "t": "li",
+     "x": "Euro : 100034654397"
+    },
+    {
+     "t": "li",
+     "x": "Emirates NBD"
+    },
+    {
+     "t": "li",
+     "x": "Pound :-1019409332701"
+    },
+    {
+     "t": "li",
+     "x": "Dollar : 1029409332702"
+    },
+    {
+     "t": "li",
+     "x": "Euro : 1029409332703"
+    },
+    {
+     "t": "li",
+     "x": "Arabian African Bank"
+    },
+    {
+     "t": "li",
+     "x": "Pound :-1015996610010201"
+    },
+    {
+     "t": "li",
+     "x": "Dollar : 1015996610010101"
+    },
+    {
+     "t": "li",
+     "x": "Euro : 1015996610010301"
+    },
+    {
+     "t": "li",
+     "x": "QNB Bank"
+    },
+    {
+     "t": "li",
+     "x": "Pound : 68-20311817142"
+    },
+    {
+     "t": "li",
+     "x": "Dollar : 82-20312010316"
+    },
+    {
+     "t": "li",
+     "x": "Euro : 68-20312010318"
+    },
+    {
+     "t": "li",
+     "x": "Egypt Bank"
+    },
+    {
+     "t": "li",
+     "x": "Pound : 5450001000003297"
+    },
+    {
+     "t": "li",
+     "x": "Dollar : 5450120000000214"
+    },
+    {
+     "t": "li",
+     "x": "Euro : 5450130000000084"
+    },
+    {
+     "t": "li",
+     "x": "National Bank of Egypt"
+    },
+    {
+     "t": "li",
+     "x": "Pound : 1953071376769426268"
+    }
+   ]
+  },
+  "images": [
+   "/media/ways-to-give-1.jpg"
+  ],
+  "map": null
+ }
+]

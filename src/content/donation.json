@@ -1,0 +1,273 @@
+{
+ "banks": [
+  {
+   "id": 6,
+   "name": {
+    "ar": "البنك التجاري الدولي CIB",
+    "en": "CIB"
+   },
+   "logo": "/media/bank-6.png",
+   "accounts": [
+    {
+     "number": "100034654454",
+     "currency": "EGP"
+    },
+    {
+     "number": "100034654397",
+     "currency": "EUR"
+    },
+    {
+     "number": "100034654357",
+     "currency": "USD"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": {
+    "ar": "الإمارات دبي الوطني",
+    "en": "Emirates NBD"
+   },
+   "logo": "/media/bank-7.jpg",
+   "accounts": [
+    {
+     "number": "1019409332701",
+     "currency": "EGP"
+    },
+    {
+     "number": "1029409332702",
+     "currency": "USD"
+    },
+    {
+     "number": "1029409332703",
+     "currency": "EUR"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": {
+    "ar": "البنك العربي الإفريقي",
+    "en": "Arab African International Bank"
+   },
+   "logo": "/media/bank-8.png",
+   "accounts": [
+    {
+     "number": "1015996610010201",
+     "currency": "EGP"
+    },
+    {
+     "number": "1015996610010101",
+     "currency": "USD"
+    },
+    {
+     "number": "1015996610010301",
+     "currency": "EUR"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": {
+    "ar": "قطر الوطني الأهلي",
+    "en": "QNB"
+   },
+   "logo": "/media/bank-9.png",
+   "accounts": [
+    {
+     "number": "20311817142-68",
+     "currency": "EGP"
+    },
+    {
+     "number": "20312010316-82",
+     "currency": "USD"
+    },
+    {
+     "number": "20312010318-64",
+     "currency": "EUR"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": {
+    "ar": "بنك مصر",
+    "en": "Egypt Bank"
+   },
+   "logo": "/media/bank-10.png",
+   "accounts": [
+    {
+     "number": "5450001000003297",
+     "currency": "EGP"
+    },
+    {
+     "number": "1360120000000700",
+     "currency": "USD"
+    },
+    {
+     "number": "5450130000000084",
+     "currency": "EUR"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": {
+    "ar": "البنك الأهلي المصري",
+    "en": "National Bank of Egypt"
+   },
+   "logo": "/media/bank-11.png",
+   "accounts": [
+    {
+     "number": "1953071376769426268",
+     "currency": "EGP"
+    },
+    {
+     "number": "1953061376769401010",
+     "currency": "USD"
+    },
+    {
+     "number": "1953061376769402024",
+     "currency": "EUR"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": {
+    "ar": "بنك ابو ظبي الاسلامي",
+    "en": "Abu Dhabi Islamic Bank"
+   },
+   "logo": "/media/bank-12.png",
+   "accounts": [
+    {
+     "number": "100000913368",
+     "currency": "EGP"
+    },
+    {
+     "number": "100000913365",
+     "currency": "EGP"
+    },
+    {
+     "number": "100000913369",
+     "currency": "USD"
+    },
+    {
+     "number": "100000913366",
+     "currency": "USD"
+    }
+   ]
+  }
+ ],
+ "otherWays": [
+  {
+   "ar": "فودافون كاش",
+   "en": "فودافون كاش"
+  },
+  {
+   "ar": "اتصالات كاش",
+   "en": "اتصالات كاش"
+  },
+  {
+   "ar": "أورانج كاش",
+   "en": "أورانج كاش"
+  },
+  {
+   "ar": "فوري",
+   "en": "فوري"
+  },
+  {
+   "ar": "مصاري",
+   "en": "مصاري"
+  },
+  {
+   "ar": "أمان",
+   "en": "أمان"
+  },
+  {
+   "ar": "ميجا خير",
+   "en": "ميجا خير"
+  },
+  {
+   "ar": "محافظ البنوك (من خلال فوري)",
+   "en": "محافظ البنوك (من خلال فوري)"
+  },
+  {
+   "ar": "إنستاباي",
+   "en": "InstaPay"
+  }
+ ],
+ "methods": [
+  {
+   "title": {
+    "ar": "تقدر تتبرع عن طريق خدمة فورى",
+    "en": "FAWRY"
+   },
+   "desc": {
+    "ar": "كود مرسال 9200",
+    "en": "Mersal code 9200"
+   },
+   "logo": "/media/method-1.png"
+  },
+  {
+   "title": {
+    "ar": "التبرع عن طريق الرسائل القصيرة",
+    "en": "Donate with SMS"
+   },
+   "desc": {
+    "ar": "ابعت رسالة فيها كلمة مرسال على 9599 ب 5 جنيه بس",
+    "en": "Write Mersal in a SMS and send it to 9599"
+   },
+   "logo": "/media/method-2.jpg"
+  },
+  {
+   "title": {
+    "ar": "إنستاباي",
+    "en": "InstaPay"
+   },
+   "desc": {
+    "ar": "تبرع باستخدام إنستاباي",
+    "en": "Pay Now Using InstaPay"
+   },
+   "logo": "/media/method-3.png"
+  }
+ ],
+ "destinations": [
+  {
+   "id": 4132,
+   "code": "PublicDon",
+   "ar": "تبرع عام",
+   "en": "public donation"
+  },
+  {
+   "id": 6821,
+   "code": "DonZakat",
+   "ar": "زكاة مال",
+   "en": "Zakat"
+  },
+  {
+   "id": 6822,
+   "code": "DonSadaka",
+   "ar": "صدقة",
+   "en": "Sadaka"
+  },
+  {
+   "id": 7211,
+   "code": "DonSupportGaza",
+   "ar": "قوافل دعم غزة",
+   "en": "Gaza Relief Convoys"
+  },
+  {
+   "id": 7365,
+   "code": "Waitinglists",
+   "ar": "قوائم الانتظار",
+   "en": "Waiting lists"
+  },
+  {
+   "id": 7366,
+   "code": "ArrivedEarly",
+   "ar": "جيت بدري",
+   "en": "جيت بدري"
+  }
+ ]
+}

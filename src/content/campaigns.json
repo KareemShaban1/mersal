@@ -1,0 +1,110 @@
+[
+ {
+  "id": 1,
+  "title": {
+   "ar": "علاج مرضى الأورام",
+   "en": "Oncology patients treatment"
+  },
+  "desc": {
+   "ar": "علاج مرضى الأورام",
+   "en": "Oncology patients treatment"
+  },
+  "goal": 20000,
+  "unit": "جرعة",
+  "unitAmount": 500,
+  "achieved": 17222,
+  "image": "/media/campaign-1.jpg",
+  "destinationId": "6990",
+  "pageId": 31
+ },
+ {
+  "id": 2,
+  "title": {
+   "ar": "مشروع الحضانات",
+   "en": "NICU"
+  },
+  "desc": {
+   "ar": "مشروع حضانات مرسال",
+   "en": "NICU"
+  },
+  "goal": 15000,
+  "unit": "سهم",
+  "unitAmount": 75,
+  "achieved": 5827,
+  "image": "/media/campaign-2.jpg",
+  "destinationId": "6999",
+  "pageId": 52
+ },
+ {
+  "id": 3,
+  "title": {
+   "ar": "مستشفى مرسال للأطفال",
+   "en": "Mersal Children's Hospital"
+  },
+  "desc": {
+   "ar": "مستشفى مرسال للأطفال",
+   "en": "Mersal Children's Hospital"
+  },
+  "goal": 10000,
+  "unit": "سهم",
+  "unitAmount": 500,
+  "achieved": 7140,
+  "image": "/media/campaign-3.jpg",
+  "destinationId": "6967",
+  "pageId": 30
+ },
+ {
+  "id": 5,
+  "title": {
+   "ar": "كفالات مرضى",
+   "en": "Patient guarantees"
+  },
+  "desc": {
+   "ar": "كفالات مرضى",
+   "en": "Patient guarantees"
+  },
+  "goal": 20000,
+  "unit": "سهم",
+  "unitAmount": 750,
+  "achieved": 128,
+  "image": "/media/campaign-5.jpg",
+  "destinationId": "6824",
+  "pageId": 42
+ },
+ {
+  "id": 6,
+  "title": {
+   "ar": "علاج شهري",
+   "en": "Monthly Treatments"
+  },
+  "desc": {
+   "ar": "سهم علاج شهري",
+   "en": "Monthly treatment share"
+  },
+  "goal": 500000,
+  "unit": "سهم",
+  "unitAmount": 100,
+  "achieved": 166299,
+  "image": "/media/campaign-6.jpg",
+  "destinationId": "6823",
+  "pageId": 37
+ },
+ {
+  "id": 14,
+  "title": {
+   "ar": "حملة الشتاء",
+   "en": "Winter Campaign"
+  },
+  "desc": {
+   "ar": "تبرع بسيط منك يدفي قلوب أهالينا في غرْة.",
+   "en": "تبرع بسيط منك يدفي قلوب أهالينا في غرْة."
+  },
+  "goal": 27400,
+  "unit": "بطانية",
+  "unitAmount": 650,
+  "achieved": 228,
+  "image": "/media/campaign-14.jpg",
+  "destinationId": "6821",
+  "pageId": 17
+ }
+]

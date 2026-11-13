@@ -1,0 +1,716 @@
+{
+ "ar": [
+  {
+   "q": "ما هي مؤسسة مرسال ؟",
+   "a": [
+    {
+     "t": "h",
+     "x": "مرسال هي مؤسسة خيرية تعمل في مجال الصحة في مصر، تسعى المؤسسة للوصول إلى كل المرضى المستحقين وتوفير كل الاحتياجات الطبية لهم"
+    },
+    {
+     "t": "h",
+     "x": "مشاريع تعمل عليها المؤسسة:"
+    },
+    {
+     "t": "li",
+     "x": "مستشفى مرسال للأطفال: تقوم مرسال حاليا ببناء مستشفى الأطفال، وتهدف لتقديم الخدمات الطبية للأطفال غير القادرين."
+    },
+    {
+     "t": "li",
+     "x": "مركز الأورام: يسعى لتقديم العلاج للمرضى بكافة أنواع الأورام لكل الفئات العمرية. المركز يقدم خدمات طبية لعلاج السرطان المتمثلة في جرعات كيماوي وعيادات المتابعة الدورية."
+    },
+    {
+     "t": "li",
+     "x": "دار ضيافة مرسال (وقف د.أحمد خالد توفيق) تهدف الدار لفتح مقر اقامة للحالات الطبية غير القادرة من خارج القاهرة وتضطر إلى السفر يوميًا للعلاج."
+    },
+    {
+     "t": "li",
+     "x": "مشروع حكاية صوت: يسعى المشروع لمساعدة الأطفال المولودين بمشاكل بالسمع عن طريق المساهمة في تكاليف عملية زراعة القوقعة أو في الأجهزة السمعية. ويشمل المشروع التكفل بعمليات الزرع الخاصة بكبار السن الذين تعدوا السن المخصص لدعم الدولة لزراعة القوقعة."
+    },
+    {
+     "t": "li",
+     "x": "برنامج طوارئ مرسال: يسعى البرنامج لتقديم الخدمة الطبية العاجلة للمرضى على مدار الأسبوع، من خلال شبكة تعاقدات مرسال مع مستشفيات خاصة وحكومية."
+    }
+   ]
+  },
+  {
+   "q": "ما هى طرق التبرع الأخرى لمرسال؟",
+   "a": [
+    {
+     "t": "li",
+     "x": "لطلب مندوب كلمنا على 19340 أو 01200002870."
+    },
+    {
+     "t": "li",
+     "x": "تحويل بنكي"
+    },
+    {
+     "t": "li",
+     "x": "بنك CIB الجنيه :- 100034654454 الدولار :-100034654357 اليورو :-100034654397"
+    },
+    {
+     "t": "li",
+     "x": "الإمارات دبي الوطني الجنيه:-1019409332701 الدولار:-1029409332702 اليورو:- 1029409332703"
+    },
+    {
+     "t": "li",
+     "x": "البنك العربي الأفريقي الجنيه: 1015996610010201 الدولار:1015996610010101 اليورو:1015996610010301"
+    },
+    {
+     "t": "li",
+     "x": "بنك QNB الجنيه:- 68-20311817142 الدولار:- 82-20312010316 اليورو :- 68-20312010318"
+    },
+    {
+     "t": "li",
+     "x": "بنك مصر الجنيه:- 5450001000003297 الدولار:- 5450120000000214 اليورو:- 5450130000000084"
+    },
+    {
+     "t": "li",
+     "x": "البنك الأهلي المصري الجنيه:- 1953071376769426268"
+    },
+    {
+     "t": "li",
+     "x": "عن طريق فوري بكود رقم 9200 (اتصالات كاش ، أورانج كاش، محافظ البنوك من خلال فوري) أو محفظة فودافون كاش (من خلال ميجا خير) أو عن طريق (مصاري ،ضامن، الأهلي ممكن، Opay، Bee، أمان) باسم المؤسسة فقط."
+    },
+    {
+     "t": "li",
+     "x": "ابعت رسالة بـ5 جنيه على رقم 9599 بكلمة Mersal أو مرسال."
+    },
+    {
+     "t": "li",
+     "x": "أو التبرع في فروع مرسال(المعادي، التجمع الخامس، مدينة نصر، زايد، الدقي، الإسكندرية، سوهاج، بنده ماركت (أول مكرم)"
+    }
+   ]
+  },
+  {
+   "q": "ما هى مصارف الزكاة داخل مرسال؟",
+   "a": [
+    {
+     "t": "li",
+     "x": "كفالات مرضى فقراء (مرسال مسجل فيها 500 أسرة تقريبا، ومتوسط الكفالة الشهرية 2000 جنيه)."
+    },
+    {
+     "t": "li",
+     "x": "علاج مرضى فقراء (مرسال مسجل فيها 40000 مريض، كلهم يحتاجوا لدعم العلاج؛ أغلبهم مستحق للزكاة)"
+    },
+    {
+     "t": "li",
+     "x": "دفع الديون الطبية للمرضى غير القادرين."
+    },
+    {
+     "t": "li",
+     "x": "ابن السبيل ( توفير إقامة في دار الضيافة (تكلفة الإقامة في الدار 275 جنيه في الليلة للمريض؛ لدينا 50 ضيف شهريا)"
+    }
+   ]
+  },
+  {
+   "q": "ما هي طريقة تسجيل حالة جديدةفي مرسال؟",
+   "a": [
+    {
+     "t": "p",
+     "x": "لتسجيل الحالة تقدر تكلمنا على 19340 أو علي رقم 01200002870 . أو التسجيل مباشرة من خلال الموقع."
+    }
+   ]
+  },
+  {
+   "q": "ما هي عناوين فروع مؤسسة مرسال؟",
+   "a": [
+    {
+     "t": "li",
+     "x": "عناوين فروع مؤسسة مرسال:- المعادي الجديدة : 8 شارع 263- المعادي الجديدة https://bit.ly/2FiFw4n"
+    },
+    {
+     "t": "li",
+     "x": "مدينة نصر : 26 شارع الطيران- الدور الأول شقة رقم 1 - رابعة العدوية - المنطقة الأولى مدينة نصر. https://bit.ly/3bdAw0E"
+    },
+    {
+     "t": "li",
+     "x": "التجمع الخامس: 595 عمارات النرجس . الدور الأول أمام مسجد فاطمة الشربتلي https://bit.ly/3iRkw3o"
+    },
+    {
+     "t": "li",
+     "x": "الشيخ زايد : كومباوند روضة المهندسين - عمارة زايد فيو (المدخل الثاني) - الحي السابع - المجاورة الأولى - القطعة رقم 158 https://bit.ly/3hKRbvX"
+    },
+    {
+     "t": "li",
+     "x": "الدقي: 21 شارع جابر بن حيان، متفرع من شارع الدقي https://bit.ly/3d8KpOs"
+    },
+    {
+     "t": "li",
+     "x": "الإسكندرية: 276 عبد السلام عارف ، سيدي بشر- الترام. http://bit.ly/2O1HFmp"
+    },
+    {
+     "t": "li",
+     "x": "سوهاج: 4 شارع الجمهورية أمام نادى التجديف. (الفرع يعمل من الأحد إلى الخميس من 8 ص لـ 9 م) التلفون:01004814487 https://bit.ly/3l6oAA0"
+    },
+    {
+     "t": "li",
+     "x": "ومتواجدين في فرع بنده ماركت بأول مكرم (مدينة نصر) لإستقبال التبرع وشرح أنشطة مرسال ."
+    }
+   ]
+  },
+  {
+   "q": "ما هي طريقة التطوع في مؤسسة مرسال؟",
+   "a": [
+    {
+     "t": "p",
+     "x": "للتطوع يرجى ملئ الاسمتارة التالية https://bit.ly/3OakNi3 وهيتم التواصل معكم في أول مشروع تطوعي معانا"
+    }
+   ]
+  },
+  {
+   "q": "ما هي طريقة التبرع عن طريق فودافون كاش؟",
+   "a": [
+    {
+     "t": "p",
+     "x": "التبرع عن طريق فودافون كاش من خلال أبلكيشين أنا فودافون في الجزء الخاص بالتبرعات، أو تقدر تتبرع من خلال فودافون كاش ودي الطريقة: اطلب #9* ثم اختيار 6 (التبرعات) ثم 1 (ميجا خير) ثم 1 ( الجمعيات) ثم 3 (مؤسسة مرسال) ثم جهة التبرع، والمبلغ، والرقم السري لإتمام عملية التبرع. أو عن طريق الرقم المختصر مباشرة #50*9*"
+    }
+   ]
+  },
+  {
+   "q": "ما هي مشاريع الصدقة الجارية في مرسال؟",
+   "a": [
+    {
+     "t": "h",
+     "x": "الصدقات الجارية اللي حضرتك تقدر تشارك بيها في مرسال حاليًا هي:"
+    },
+    {
+     "t": "li",
+     "x": "تجهيز رعاية مركزة كاملة لمرسال."
+    },
+    {
+     "t": "li",
+     "x": "مستشفى مرسال للأطفال، والمشاركة فيها بتكون بأسهم بقيمة 1000 جنيه للسهم."
+    },
+    {
+     "t": "li",
+     "x": "المشاركة بسهم في الأجهزة الطبية (جهاز التخدير، جهاز الأشعة، أجهزة تنفس صناعي، حضانات) بسهم بقيمة 500 جنيه."
+    },
+    {
+     "t": "li",
+     "x": "مشاركة في سهم الخير (تجهيز العناية المركزة ودفع أقساط مستشفى مرسال) بقيمة 300 جنيه."
+    },
+    {
+     "t": "li",
+     "x": "المشاركة في سهم التشطيبات لمستشفى مرسال (250 جنيه)"
+    },
+    {
+     "t": "li",
+     "x": "المساهمة في سهم عام صدقة جارية بالمستشفى (100 جنيه)"
+    },
+    {
+     "t": "li",
+     "x": "المشاركة في أجهزة المستشفى، وفيه مشاركة في سرير رعاية مركزة وتكلقته 120 ألف جنيه."
+    },
+    {
+     "t": "li",
+     "x": "سرير غرفة عادية بقيمة 75 ألف جنيه."
+    },
+    {
+     "t": "li",
+     "x": "المشاركة بوقف خيري بجزء في أرض المستشفى بقيمة 25 ألف جنيه."
+    },
+    {
+     "t": "li",
+     "x": "قيمة طوبة في مستشفى مرسال بـ 5 جنيه."
+    },
+    {
+     "t": "li",
+     "x": "مركز مرسال للأطفال للحالات الحرجة قيمة السهم 75 جنيه ( المركز شامل 40 حضانة و 6 رعايات مركزة)."
+    },
+    {
+     "t": "li",
+     "x": "سيارة الإسعاف قيمة السهم 200 جنيه."
+    }
+   ]
+  },
+  {
+   "q": "ما هو الـ Swift Code الخاص بالبنوك ؟",
+   "a": [
+    {
+     "t": "li",
+     "x": "Address: 18 nazih khalifa el korba Heliopolis Swift code: Cibeegcx188 Branch: Cib el korba branch Bank : cib"
+    },
+    {
+     "t": "li",
+     "x": "Adress: 1/4 شارع اللاسلكي - المعادي الجديدة Branch : فرع اللاسلكي Swift code : araiegcxxx Bank : العربي الأفريقي"
+    },
+    {
+     "t": "li",
+     "x": "Adress: 2 شارع بورسعيد - ميدان فيكتوريا - المعادي Branch : بنك الإمارات دبي فرع فيكتوريا Swift code: EBILEGCXXXX Bank : الإمارات دبي"
+    },
+    {
+     "t": "li",
+     "x": "Branch : البنك الأهلي المصري فرع اللاسلكي Swift code NBEGEGCX195 Bank : البنك الأهلي المصري"
+    }
+   ]
+  },
+  {
+   "q": "ما هو الـ IBAN الخاص بالبنوك ؟",
+   "a": [
+    {
+     "t": "li",
+     "x": "العربي الافريقي (الجنيه المصرى) EG840057025801015996610010201 (الدولار) EG680057025801015996610010101 (اليورو) EG030057025801015996610010301"
+    },
+    {
+     "t": "li",
+     "x": "التجاري الدولي (المصري) EG190010018800000100034654454 (الدولار) EG190010018800000100034654357 (اليورو) EG060010018800000100034654397"
+    },
+    {
+     "t": "li",
+     "x": "الامارات دبي الوطني (المصري) EG370014000700001019409332701 (الدولار) EG450014000700001029409332702 (اليورو) EG180014000700001029409332703"
+    },
+    {
+     "t": "li",
+     "x": "بنك قطر الوطني الأهلي: الجنيه:- EG870037073508182031181714268 الدولار:- EG870037073508402031201031682 اليورو :- EG050037073509782031201031864"
+    },
+    {
+     "t": "li",
+     "x": "البنك الأهلي المصري: الجنيه:- EG400003019530713767694262680"
+    },
+    {
+     "t": "li",
+     "x": "بنك مصر الجنيه: EG470002054505450001000003297 الدولار:-EG420002054505450120000000214 اليورو:- EG950002054505450130000000084"
+    }
+   ]
+  },
+  {
+   "q": "أريد حل لمشكلة ما تواجهني أثناء التبرع",
+   "a": [
+    {
+     "t": "p",
+     "x": "لو في مشكلة بتواجهك أثناء التبرع تقدر تتواصل معانا على info@mersal-ngo.org"
+    }
+   ]
+  },
+  {
+   "q": "ما الفرق بين الصدقة والزكاة والصدقة الجارية",
+   "a": [
+    {
+     "t": "p",
+     "x": "الزكاة فريضة على جميع المسلمين، وركن من أركان الإسلام الخمسة. وتوجب على كل مسلم أن يدفع نسبة محددة من أمواله سنوياً لأهداف خيرية، الصدقة اختيارية تماماً. وخلافاً للزكاة، فالصدقات تمنح في أي وقت إلى أي شخص وبأي مبلغ أو شيء بما يشمل الصدقات العينية. الصدقة الجارية :هي الصدقة التي يقدمها المرء في الحياة ويستمر الانتفاع بها واستفادة الآخرون منها إلى يوم الحساب، و بالتالي هي الصدقة التي يبقى أجرها مستمراً حتى بعد وفاة المتبرع بها."
+    }
+   ]
+  },
+  {
+   "q": "كيف يتم تحديد مستحقي الزكاة؟",
+   "a": [
+    {
+     "t": "h",
+     "x": "ازاي مرسال بتتأكد إن المريض مستحق لزكاتك ؟"
+    },
+    {
+     "t": "li",
+     "x": "باحث إجتماعي محترف مدرب ازاي يدير حوار مع الحالة بيعمل بحث بيراعي فيه معاير مرسال من خصوصية ودقة شديدة."
+    },
+    {
+     "t": "li",
+     "x": "باحث ميداني بيلاحظ ( حالة المسكن ومستواه، عدد الأفراد وتعليمهم وشغلهم، الدخل بتفاصيله والمصاريف عشان نقارن بينهم )."
+    },
+    {
+     "t": "li",
+     "x": "بيتم طلب أوراق تثبت وتوثق الحالة زي ( مفردات مرتب، بيان معاش، حيازة أرض ، وشهادات الميلاد، صورة إثبات الشخصية وصور من عقد الإيجار )."
+    },
+    {
+     "t": "li",
+     "x": "عشان نتفادى عدم دقة الحكم الفردي بيتم تكوين لجنة تعقد مرتين كل أسبوع مكونة من :"
+    },
+    {
+     "t": "li",
+     "x": "مدير الأبحاث."
+    },
+    {
+     "t": "li",
+     "x": "مدير متابعة الحالات."
+    },
+    {
+     "t": "li",
+     "x": "مدير تدريب الباحثين."
+    },
+    {
+     "t": "li",
+     "x": "طبيب"
+    },
+    {
+     "t": "li",
+     "x": "صيدلي"
+    },
+    {
+     "t": "li",
+     "x": "الباحث المسؤول عن الحالة."
+    },
+    {
+     "t": "p",
+     "x": "بيتم الوصول للقرار بالأغلبية بعد مراعاة الأوضاع الإجتماعية ، الطبية وبيتم تسجيل الحالة. بتصنف الحالة لـ(تكفل كامل -تكفل جزئي - الرفض لعدم الاستحقاق أو لتوفر العلاج مجانا بالدولة ) . خرج زكاتك وأنت مطمئن إنها هتوصل لمستحقيها."
+    }
+   ]
+  }
+ ],
+ "en": [
+  {
+   "q": "What is Mersal Foundation?",
+   "a": [
+    {
+     "t": "h",
+     "x": "Mersal is a charitable organization working in the field of health in Egypt. The foundation seeks to reach all eligible patients and provide them with all medical needs"
+    },
+    {
+     "t": "h",
+     "x": "Projects the organization is working on:"
+    },
+    {
+     "t": "li",
+     "x": "Mersal Children's Hospital: Mersal is currently building a children's hospital, and aims to provide medical services to children who are unable."
+    },
+    {
+     "t": "li",
+     "x": "Oncology Center: seeks to provide treatment for patients of all types of tumors of all age groups. The center provides medical services for cancer treatment, including chemotherapy and periodic follow-up clinics."
+    },
+    {
+     "t": "li",
+     "x": "Mersal Guest House (endowment of Dr. Ahmed Khaled Tawfiq) The house aims to open a residence for medical cases who are unable to come from outside Cairo and are forced to travel daily for treatment."
+    },
+    {
+     "t": "li",
+     "x": "A Voice Story Project: The project seeks to help children born with hearing problems by contributing to the costs of cochlear implants or hearing aids. The project includes sponsoring implants for the elderly who have exceeded the age allotted for state support for cochlear implants."
+    },
+    {
+     "t": "li",
+     "x": "Mersal Emergency Program: The program seeks to provide urgent medical service to patients throughout the week, through Mersal's contracting network with private and government hospitals."
+    }
+   ]
+  },
+  {
+   "q": "What are the other ways to donate to Mersal?",
+   "a": [
+    {
+     "t": "li",
+     "x": "To request a representative, call us on 19340 or 01200002870."
+    },
+    {
+     "t": "li",
+     "x": "Bank transfer"
+    },
+    {
+     "t": "li",
+     "x": "CIB Bank The pound: 100034654454 Dollar: 100034654357 Euro: 100034654397"
+    },
+    {
+     "t": "li",
+     "x": "Emirates NBD Pound: -1019409332701 Dollar: -1029409332702 Euro:- 1029409332703"
+    },
+    {
+     "t": "li",
+     "x": "Arabian African Bank Pound: 1015996610010201 Dollar: 1015996610010101 Euro: 1015996610010301"
+    },
+    {
+     "t": "li",
+     "x": "QNB Bank Pound:- 68-20311817142 Dollar:- 82-20312010316 Euro: 68-20312010318"
+    },
+    {
+     "t": "li",
+     "x": "Egypt Bank The pound:- 5450001000003297 Dollar: - 5450120000000214 Euro:- 5450130000000084"
+    },
+    {
+     "t": "li",
+     "x": "National Bank of Egypt Pound:- 1953071376769426268"
+    },
+    {
+     "t": "li",
+     "x": "Through Fawry with code number 9200 (Etisalat Cash, Orange Cash, bank wallets through Fawry) Or Vodafone Cash wallet (through Mega Khair) Or through (Masary, Daman, Al-Ahly Possible, Opay, Bee, Aman) in the name of the institution only."
+    },
+    {
+     "t": "li",
+     "x": "Send a message for 5 pounds to the number 9599 with the word Mersal or Mersal."
+    },
+    {
+     "t": "li",
+     "x": "Or donate at Mersal branches Maadi, Fifth Settlement, Nasr City, Zayed, Dokki, Alexandria, Sohag, Panda Market (Awal Makram)"
+    }
+   ]
+  },
+  {
+   "q": "What are the zakat expenditures in Mirsal?",
+   "a": [
+    {
+     "t": "li",
+     "x": "Sponsorships for poor patients (about 500 families are registered in Mersal, and the average monthly sponsorship is 2,000 pounds)."
+    },
+    {
+     "t": "li",
+     "x": "Pay medical debts for patients who are unable."
+    },
+    {
+     "t": "li",
+     "x": "Ibn al-Sabil (providing accommodation in the guest house (the cost of accommodation in the house is 275 pounds per night for the patient; we have 50 guests per month)"
+    }
+   ]
+  },
+  {
+   "q": "What is the method of registering a new case in Mersal?",
+   "a": [
+    {
+     "t": "p",
+     "x": "To register the case, you can call us on 19340 or on 01200002870. Or register directly through the site."
+    }
+   ]
+  },
+  {
+   "q": "What are the addresses of Mersal Foundation branches?",
+   "a": [
+    {
+     "t": "li",
+     "x": "Mersal Foundation branches addresses:- New Maadi: 8 Street 263 - New Maadi https://bit.ly/2FiFw4n"
+    },
+    {
+     "t": "li",
+     "x": "Nasr City: 26 Al-Tayaran Street - First Floor, Flat No. 1 - Rabaa Al-Adawiya - First District, Nasr City. https://bit.ly/3bdAw0E"
+    },
+    {
+     "t": "li",
+     "x": "Fifth Settlement: 595 Al Narges Buildings. First floor in front of Fatima Al Sharbatly Mosque https://bit.ly/3iRkw3o"
+    },
+    {
+     "t": "li",
+     "x": "Sheikh Zayed: Rawdat Al Mohandessin Compound - Zayed View Building (second entrance) - Seventh District - First Neighborhood - Plot No. 158 https://bit.ly/3hKRbvX"
+    },
+    {
+     "t": "li",
+     "x": "Dokki: 21 Jaber Bin Hayyan Street, off Dokki Street https://bit.ly/3d8KpOs"
+    },
+    {
+     "t": "li",
+     "x": "Alexandria: 276 Abdel Salam Aref, Sidi Beshr - Tram. http://bit.ly/2O1HFmp"
+    },
+    {
+     "t": "li",
+     "x": "Sohag: 4 El Gomhouria Street, in front of the Rowing Club. (The branch operates from Sunday to Thursday from 8 am to 9 pm) Phone: 01004814487 https://bit.ly/3l6oAA0"
+    },
+    {
+     "t": "li",
+     "x": "We are present in the Panda Market Baoul Makram branch (Nasr City) to receive the donation and explain Mersal's activities."
+    }
+   ]
+  },
+  {
+   "q": "What is the method of volunteering at Mersal Foundation?",
+   "a": [
+    {
+     "t": "p",
+     "x": "To volunteer, please fill out the following form https://bit.ly/3OakNi3 You will be contacted on the first volunteer project with us"
+    }
+   ]
+  },
+  {
+   "q": "What is the way to donate via Vodafone Cash?",
+   "a": [
+    {
+     "t": "p",
+     "x": "Donate via Vodafone Cash through the Ana Vodafone application in the donation section, or you can donate through Vodafone Cash and this is the method:"
+    },
+    {
+     "t": "p",
+     "x": "Dial *9#"
+    },
+    {
+     "t": "p",
+     "x": "Then select 6 (Donations)."
+    },
+    {
+     "t": "p",
+     "x": "then 1 (mega is good)"
+    },
+    {
+     "t": "p",
+     "x": "then 1 (associations)"
+    },
+    {
+     "t": "p",
+     "x": "Then 3 (Mersal Foundation)"
+    },
+    {
+     "t": "p",
+     "x": "Then the donation party, the amount, and the password to complete the donation process. Or via the short number directly *9*50#"
+    }
+   ]
+  },
+  {
+   "q": "What are the ongoing charity projects in Mersal?",
+   "a": [
+    {
+     "t": "p",
+     "x": "The ongoing charity that you can participate in in Mersal currently is:"
+    },
+    {
+     "t": "li",
+     "x": "Full intensive care equipment for Marsal."
+    },
+    {
+     "t": "li",
+     "x": "Mersal Children's Hospital, and participation in it will be with shares of 1000 pounds per share."
+    },
+    {
+     "t": "li",
+     "x": "Participating with a share in medical devices (anaesthesia machine, X-ray machine, artificial respirators, incubators) with a share of 500 pounds."
+    },
+    {
+     "t": "li",
+     "x": "Participation in the charity share (equipping intensive care and paying Mersal hospital installments) with a value of 300 pounds."
+    },
+    {
+     "t": "li",
+     "x": "Participation in the finishing share of Mersal Hospital (250 pounds)"
+    },
+    {
+     "t": "li",
+     "x": "Contributing to a public share is an ongoing charity in the hospital (100 pounds)"
+    },
+    {
+     "t": "li",
+     "x": "Participation in hospital equipment, including participation in an intensive care bed, at a cost of 120,000 pounds."
+    },
+    {
+     "t": "li",
+     "x": "A standard room bed worth 75,000 pounds."
+    },
+    {
+     "t": "li",
+     "x": "Participating in a charitable endowment with a part of the hospital land at a value of 25,000 pounds."
+    },
+    {
+     "t": "li",
+     "x": "The value of a brick in Mersal Hospital is 5 pounds."
+    },
+    {
+     "t": "li",
+     "x": "Mersal Center for Children for Critical Conditions, the share price is 75 pounds (the center includes 40 nurseries and 6 intensive care units)."
+    },
+    {
+     "t": "li",
+     "x": "The ambulance, the share value is 200 pounds."
+    }
+   ]
+  },
+  {
+   "q": "What is the Swift Code for banks?",
+   "a": [
+    {
+     "t": "li",
+     "x": "Address: 18 Nazih Khalifah El Korba Heliopolis Swift code: Cibeegcx188 Branch: Cib El Korba branch Bank: cib"
+    },
+    {
+     "t": "li",
+     "x": "Address: 1/4 El Lasilky Street - New Maadi Branch: wireless branch Swift code: araiegcxxx Bank: Arab African"
+    },
+    {
+     "t": "li",
+     "x": "Address: 2 Port Said Street - Victoria Square - Maadi Branch : Emirates Bank Dubai Victoria Branch Swift code: EBILEGCXXXX Bank: Emirates Dubai"
+    },
+    {
+     "t": "li",
+     "x": "Branch: The National Bank of Egypt, Wireless Branch Swift code NBEGEGGCX195 Bank: The National Bank of Egypt"
+    }
+   ]
+  },
+  {
+   "q": "What is the IBAN for banks?",
+   "a": [
+    {
+     "t": "li",
+     "x": "African Arab (Egyptian Pound) EG840057025801015996610010201 (dollar) EG680057025801015996610010101 (euro) EG030057025801015996610010301"
+    },
+    {
+     "t": "li",
+     "x": "international commercial (The Egyptian) EG190010018800000100034654454 (dollar) EG190010018800000100034654357 (Euro) EG060010018800000100034654397"
+    },
+    {
+     "t": "li",
+     "x": "Emirates NBD (The Egyptian) EG370014000700001019409332701 (dollar) EG450014000700001029409332702 (Euro) EG180014000700001029409332703"
+    },
+    {
+     "t": "li",
+     "x": "Qatar National Bank Al Ahli: Pound:- EG870037073508182031181714268 Dollar: - EG870037073508402031201031682 Euro:- EG050037073509782031201031864"
+    },
+    {
+     "t": "li",
+     "x": "National Bank of Egypt: Pound:- EG400003019530713767694262680"
+    },
+    {
+     "t": "li",
+     "x": "Egypt Bank Pound: EG470002054505450001000003297 Dollar:-EG420002054505450120000000214 Euro:- EG950002054505450130000000084"
+    }
+   ]
+  },
+  {
+   "q": "I want a solution to a problem that I encounter while making a donation",
+   "a": [
+    {
+     "t": "p",
+     "x": "If you encounter any problem while donating, you can contact us at info@mersal-ngo.org"
+    }
+   ]
+  },
+  {
+   "q": "What is the difference between charity, zakat and current charity?",
+   "a": [
+    {
+     "t": "p",
+     "x": "Zakat is obligatory for all Muslims, and one of the five pillars of Islam. Every Muslim was required to pay a specific percentage of his money annually for charitable purposes. Charity is completely optional. Unlike zakat, alms are given at any time to any person for any amount or thing, including in-kind alms. Ongoing charity: It is the charity that a person gives in life and continues to benefit from it and others benefit from it until the Day of Judgment, and therefore it is the charity whose reward remains continuous even after the death of the donor."
+    }
+   ]
+  },
+  {
+   "q": "How are the recipients of zakat determined?",
+   "a": [
+    {
+     "t": "p",
+     "x": "How can you make sure that the patient is entitled to your zakat?"
+    },
+    {
+     "t": "li",
+     "x": "A trained professional social researcher, how to conduct a dialogue with the case, conducting research that takes into account Mersal’s standards of privacy and extreme accuracy."
+    },
+    {
+     "t": "li",
+     "x": "A field researcher observes (the condition of the house and its level, the number of individuals, their education and work, the income with its details and the expenses in order to compare them)."
+    },
+    {
+     "t": "li",
+     "x": "Paperments are required to prove and document the case, such as (salary items, pension statement, land possession, birth certificates, a copy of personal identification and copies of the lease contract)."
+    },
+    {
+     "t": "li",
+     "x": "In order to avoid the inaccuracy of individual judgment, a committee is formed to meet twice a week, consisting of:"
+    },
+    {
+     "t": "li",
+     "x": "Director of Research."
+    },
+    {
+     "t": "li",
+     "x": "Case Follow-up Manager."
+    },
+    {
+     "t": "li",
+     "x": "Research Training Director."
+    },
+    {
+     "t": "li",
+     "x": "Doctor"
+    },
+    {
+     "t": "li",
+     "x": "Pharmacist"
+    },
+    {
+     "t": "li",
+     "x": "The researcher in charge of the case."
+    },
+    {
+     "t": "p",
+     "x": "The decision is reached by majority after taking into account the social and medical conditions, and the case is registered. The case is classified into (full sponsorship - partial sponsorship - refusal for lack of eligibility or for the availability of free treatment in the state). Get your zakat out while you are assured that it will reach those who deserve it."
+    }
+   ]
+  }
+ ]
+}
